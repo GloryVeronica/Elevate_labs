@@ -1,0 +1,1001 @@
+Order ID,Order Date,Ship Date,Year,Month,State,Region,Segment,Category,Sub-Category,Product Name,Sales,Cost,Profit,Quantity,Discount,Currency
+OD-10000,17-10-2023,18-10-2023,2023,October,Florida,Central,Consumer,Furniture,Bookcases,Product_5,1486.12,1192.43,293.69,11,0.0,USD
+OD-10001,02-02-2022,03-02-2022,2022,February,California,West,Home Office,Furniture,Chairs,Product_18,437.73,523.04,-85.31,11,0.3,USD
+OD-10002,27-08-2023,30-08-2023,2023,August,Illinois,South,Corporate,Furniture,Chairs,Product_5,469.86,528.33,-58.47,13,0.2,USD
+OD-10003,25-01-2023,26-01-2023,2023,January,Arizona,Central,Consumer,Technology,Accessories,Product_18,293.41,360.98,-67.57,15,0.3,USD
+OD-10004,28-10-2022,04-11-2022,2022,October,Florida,Central,Home Office,Office Supplies,Art,Product_23,185.63,159.04,26.59,11,0.1,USD
+OD-10005,23-03-2022,30-03-2022,2022,March,Arizona,South,Corporate,Furniture,Chairs,Product_21,1676.52,1779.09,-102.57,3,0.2,USD
+OD-10006,18-11-2023,21-11-2023,2023,November,New York,East,Home Office,Office Supplies,Art,Product_18,1471.8,1700.13,-228.33,3,0.3,USD
+OD-10007,18-10-2023,24-10-2023,2023,October,Florida,Central,Consumer,Office Supplies,Binders,Product_27,112.6,133.21,-20.61,6,0.3,USD
+OD-10008,05-08-2022,10-08-2022,2022,August,Arizona,West,Home Office,Office Supplies,Paper,Product_13,1775.13,2155.51,-380.38,11,0.3,USD
+OD-10009,23-05-2022,25-05-2022,2022,May,Ohio,Central,Home Office,Office Supplies,Art,Product_29,1187.89,951.11,236.78,6,0.1,USD
+OD-10010,22-05-2022,27-05-2022,2022,May,New York,East,Consumer,Technology,Phones,Product_21,361.96,398.48,-36.52,11,0.3,USD
+OD-10011,30-01-2023,03-02-2023,2023,January,California,Central,Home Office,Office Supplies,Paper,Product_22,1455.41,1394.06,61.35,11,0.2,USD
+OD-10012,15-12-2022,16-12-2022,2022,December,California,West,Corporate,Technology,Accessories,Product_24,1757.91,1622.69,135.22,5,0.1,USD
+OD-10013,19-04-2022,26-04-2022,2022,April,Washington,West,Consumer,Office Supplies,Paper,Product_25,365.02,292.11,72.91,13,0.0,USD
+OD-10014,16-05-2023,17-05-2023,2023,May,California,Central,Consumer,Furniture,Tables,Product_8,1762.12,1351.59,410.53,2,0.0,USD
+OD-10015,15-04-2024,16-04-2024,2024,April,Arizona,West,Home Office,Office Supplies,Binders,Product_18,372.0,375.31,-3.31,9,0.3,USD
+OD-10016,07-07-2023,14-07-2023,2023,July,Illinois,West,Home Office,Office Supplies,Art,Product_13,1990.54,2071.11,-80.57,11,0.2,USD
+OD-10017,14-06-2023,18-06-2023,2023,June,Washington,West,Consumer,Furniture,Chairs,Product_1,1197.2,1254.91,-57.71,4,0.1,USD
+OD-10018,26-12-2023,01-01-2024,2023,December,Washington,East,Consumer,Furniture,Chairs,Product_3,1052.6,1259.37,-206.77,5,0.3,USD
+OD-10019,16-05-2022,22-05-2022,2022,May,Arizona,South,Consumer,Office Supplies,Art,Product_26,843.77,662.57,181.2,2,0.0,USD
+OD-10020,29-12-2022,02-01-2023,2022,December,Texas,East,Home Office,Technology,Accessories,Product_2,835.11,741.44,93.67,6,0.0,USD
+OD-10021,14-07-2022,19-07-2022,2022,July,Illinois,South,Consumer,Technology,Phones,Product_15,537.12,450.76,86.36,15,0.0,USD
+OD-10022,01-06-2024,08-06-2024,2024,June,California,East,Home Office,Office Supplies,Binders,Product_3,1856.42,1872.06,-15.64,14,0.1,USD
+OD-10023,13-05-2023,17-05-2023,2023,May,Ohio,East,Consumer,Furniture,Tables,Product_1,1971.35,2323.61,-352.26,5,0.3,USD
+OD-10024,15-12-2023,21-12-2023,2023,December,Florida,South,Consumer,Office Supplies,Art,Product_10,474.52,362.06,112.46,1,0.0,USD
+OD-10025,28-02-2022,01-03-2022,2022,February,Texas,West,Consumer,Office Supplies,Paper,Product_28,412.36,322.13,90.23,10,0.0,USD
+OD-10026,29-08-2022,02-09-2022,2022,August,California,West,Home Office,Furniture,Bookcases,Product_20,209.87,192.31,17.56,11,0.2,USD
+OD-10027,29-07-2022,04-08-2022,2022,July,Ohio,West,Corporate,Office Supplies,Paper,Product_5,1359.8,1592.27,-232.47,5,0.3,USD
+OD-10028,09-02-2024,10-02-2024,2024,February,Florida,East,Consumer,Furniture,Tables,Product_17,567.14,527.32,39.82,15,0.2,USD
+OD-10029,19-06-2024,21-06-2024,2024,June,Illinois,West,Corporate,Technology,Accessories,Product_20,1968.51,1541.41,427.1,13,0.0,USD
+OD-10030,22-07-2023,25-07-2023,2023,July,Texas,West,Corporate,Office Supplies,Binders,Product_29,258.72,254.04,4.68,9,0.1,USD
+OD-10031,12-09-2023,14-09-2023,2023,September,Illinois,West,Home Office,Office Supplies,Paper,Product_17,1002.64,929.37,73.27,15,0.0,USD
+OD-10032,10-03-2023,17-03-2023,2023,March,New York,East,Corporate,Technology,Phones,Product_21,1960.61,2180.35,-219.74,3,0.3,USD
+OD-10033,14-03-2023,19-03-2023,2023,March,New York,East,Home Office,Furniture,Chairs,Product_18,120.25,113.34,6.91,6,0.1,USD
+OD-10034,12-02-2022,15-02-2022,2022,February,Florida,Central,Consumer,Technology,Phones,Product_22,250.45,252.09,-1.64,13,0.3,USD
+OD-10035,07-02-2024,09-02-2024,2024,February,California,West,Corporate,Furniture,Chairs,Product_6,1486.3,1559.78,-73.48,6,0.3,USD
+OD-10036,03-06-2024,09-06-2024,2024,June,Texas,West,Home Office,Furniture,Tables,Product_13,1750.73,2091.06,-340.33,14,0.3,USD
+OD-10037,16-04-2024,20-04-2024,2024,April,California,West,Consumer,Technology,Accessories,Product_22,426.6,398.41,28.19,6,0.2,USD
+OD-10038,02-03-2024,05-03-2024,2024,March,Washington,South,Home Office,Technology,Laptops,Product_1,274.92,248.76,26.16,5,0.1,USD
+OD-10039,29-09-2022,30-09-2022,2022,September,Washington,South,Corporate,Furniture,Bookcases,Product_14,1232.11,1051.85,180.26,9,0.0,USD
+OD-10040,14-08-2023,16-08-2023,2023,August,Florida,South,Consumer,Technology,Phones,Product_12,891.03,885.87,5.16,11,0.2,USD
+OD-10041,11-11-2023,18-11-2023,2023,November,Illinois,Central,Home Office,Furniture,Bookcases,Product_22,846.37,856.02,-9.65,7,0.2,USD
+OD-10042,16-07-2022,20-07-2022,2022,July,Illinois,West,Home Office,Office Supplies,Paper,Product_13,1118.48,1206.03,-87.55,1,0.2,USD
+OD-10043,17-03-2023,24-03-2023,2023,March,Arizona,Central,Corporate,Office Supplies,Art,Product_15,1367.47,1437.99,-70.52,9,0.3,USD
+OD-10044,26-03-2024,01-04-2024,2024,March,Washington,East,Corporate,Furniture,Bookcases,Product_3,1645.93,1451.38,194.55,13,0.1,USD
+OD-10045,19-08-2022,26-08-2022,2022,August,Florida,East,Consumer,Furniture,Chairs,Product_16,1241.98,1038.48,203.5,13,0.0,USD
+OD-10046,07-10-2023,12-10-2023,2023,October,Ohio,South,Corporate,Furniture,Bookcases,Product_8,337.76,245.5,92.26,12,0.0,USD
+OD-10047,31-05-2024,07-06-2024,2024,May,Arizona,West,Consumer,Furniture,Tables,Product_2,1136.94,950.35,186.59,15,0.0,USD
+OD-10048,31-03-2024,04-04-2024,2024,March,Ohio,Central,Corporate,Office Supplies,Art,Product_27,1818.37,1571.23,247.14,8,0.1,USD
+OD-10049,02-05-2023,06-05-2023,2023,May,Arizona,Central,Home Office,Technology,Phones,Product_21,516.53,398.56,117.97,8,0.0,USD
+OD-10050,29-08-2022,01-09-2022,2022,August,New York,East,Consumer,Technology,Accessories,Product_8,796.92,823.97,-27.05,3,0.1,USD
+OD-10051,22-02-2023,25-02-2023,2023,February,Florida,South,Consumer,Office Supplies,Paper,Product_27,869.28,639.63,229.65,15,0.0,USD
+OD-10052,23-02-2024,28-02-2024,2024,February,Illinois,East,Corporate,Technology,Accessories,Product_25,810.47,904.03,-93.56,15,0.3,USD
+OD-10053,23-01-2024,28-01-2024,2024,January,Illinois,South,Consumer,Office Supplies,Binders,Product_14,997.0,979.83,17.17,7,0.2,USD
+OD-10054,28-03-2024,01-04-2024,2024,March,California,South,Consumer,Office Supplies,Binders,Product_30,818.34,760.25,58.09,10,0.0,USD
+OD-10055,15-03-2023,17-03-2023,2023,March,Ohio,East,Corporate,Technology,Phones,Product_11,462.74,444.09,18.65,6,0.2,USD
+OD-10056,24-01-2023,27-01-2023,2023,January,California,East,Corporate,Technology,Accessories,Product_24,1101.87,977.87,124.0,6,0.1,USD
+OD-10057,10-03-2024,16-03-2024,2024,March,California,West,Consumer,Furniture,Chairs,Product_20,347.15,375.84,-28.69,3,0.3,USD
+OD-10058,01-08-2023,03-08-2023,2023,August,New York,Central,Corporate,Technology,Laptops,Product_20,1234.13,932.45,301.68,12,0.0,USD
+OD-10059,17-06-2022,20-06-2022,2022,June,Ohio,East,Corporate,Furniture,Bookcases,Product_13,1885.87,1512.42,373.45,4,0.0,USD
+OD-10060,30-04-2024,06-05-2024,2024,April,Texas,Central,Home Office,Furniture,Chairs,Product_26,1968.5,1699.21,269.29,13,0.0,USD
+OD-10061,15-03-2023,21-03-2023,2023,March,Ohio,Central,Consumer,Technology,Phones,Product_27,1005.89,996.94,8.95,7,0.2,USD
+OD-10062,28-04-2024,02-05-2024,2024,April,Illinois,South,Consumer,Office Supplies,Binders,Product_20,1625.99,1843.52,-217.53,9,0.3,USD
+OD-10063,25-04-2024,01-05-2024,2024,April,Texas,Central,Consumer,Office Supplies,Paper,Product_9,1769.18,1959.43,-190.25,4,0.3,USD
+OD-10064,16-11-2023,20-11-2023,2023,November,New York,South,Corporate,Technology,Phones,Product_16,463.63,493.73,-30.1,13,0.2,USD
+OD-10065,03-09-2023,09-09-2023,2023,September,Florida,East,Home Office,Technology,Laptops,Product_3,520.64,578.54,-57.9,7,0.3,USD
+OD-10066,04-09-2022,10-09-2022,2022,September,California,South,Corporate,Technology,Laptops,Product_3,623.76,607.2,16.56,7,0.1,USD
+OD-10067,19-08-2023,22-08-2023,2023,August,Washington,Central,Corporate,Technology,Laptops,Product_12,1420.57,1544.37,-123.8,5,0.2,USD
+OD-10068,04-05-2022,10-05-2022,2022,May,New York,East,Home Office,Furniture,Tables,Product_7,471.95,457.25,14.7,8,0.2,USD
+OD-10069,18-02-2024,23-02-2024,2024,February,Illinois,East,Consumer,Office Supplies,Paper,Product_8,753.72,582.62,171.1,5,0.0,USD
+OD-10070,10-05-2022,13-05-2022,2022,May,New York,Central,Home Office,Furniture,Chairs,Product_21,1743.5,1275.93,467.57,8,0.0,USD
+OD-10071,11-08-2023,14-08-2023,2023,August,New York,South,Corporate,Technology,Accessories,Product_2,542.33,662.44,-120.11,14,0.3,USD
+OD-10072,08-03-2022,12-03-2022,2022,March,New York,East,Consumer,Technology,Phones,Product_26,1147.54,805.02,342.52,5,0.0,USD
+OD-10073,02-05-2022,07-05-2022,2022,May,Ohio,West,Home Office,Technology,Laptops,Product_15,1821.58,2137.91,-316.33,5,0.3,USD
+OD-10074,28-09-2023,29-09-2023,2023,September,Florida,East,Consumer,Office Supplies,Art,Product_9,1337.83,1346.59,-8.76,3,0.1,USD
+OD-10075,18-03-2022,20-03-2022,2022,March,Arizona,South,Home Office,Furniture,Tables,Product_10,113.65,110.72,2.93,5,0.2,USD
+OD-10076,10-04-2023,11-04-2023,2023,April,Florida,Central,Home Office,Office Supplies,Binders,Product_14,273.81,225.32,48.49,4,0.1,USD
+OD-10077,26-04-2024,28-04-2024,2024,April,Illinois,West,Corporate,Furniture,Chairs,Product_15,292.49,285.2,7.29,12,0.2,USD
+OD-10078,06-10-2022,11-10-2022,2022,October,California,South,Consumer,Office Supplies,Paper,Product_29,892.46,1020.56,-128.1,6,0.2,USD
+OD-10079,23-08-2022,29-08-2022,2022,August,Illinois,East,Home Office,Office Supplies,Art,Product_19,128.45,119.76,8.69,13,0.1,USD
+OD-10080,30-10-2023,03-11-2023,2023,October,Arizona,South,Home Office,Technology,Phones,Product_3,966.52,1033.92,-67.4,7,0.2,USD
+OD-10081,18-04-2022,25-04-2022,2022,April,Arizona,South,Home Office,Furniture,Tables,Product_10,1342.04,1122.34,219.7,7,0.0,USD
+OD-10082,19-11-2022,22-11-2022,2022,November,California,South,Home Office,Technology,Phones,Product_22,1745.27,2157.94,-412.67,8,0.3,USD
+OD-10083,15-06-2023,18-06-2023,2023,June,Florida,South,Consumer,Office Supplies,Paper,Product_9,1120.98,1166.35,-45.37,15,0.2,USD
+OD-10084,17-12-2023,21-12-2023,2023,December,New York,West,Home Office,Furniture,Chairs,Product_10,1124.14,1378.98,-254.84,9,0.3,USD
+OD-10085,11-05-2024,12-05-2024,2024,May,Illinois,West,Corporate,Technology,Phones,Product_17,1425.55,1432.59,-7.04,7,0.3,USD
+OD-10086,07-09-2022,11-09-2022,2022,September,New York,South,Consumer,Office Supplies,Binders,Product_28,186.13,216.85,-30.72,13,0.3,USD
+OD-10087,17-03-2024,22-03-2024,2024,March,Illinois,Central,Home Office,Technology,Phones,Product_27,1194.53,1234.77,-40.24,11,0.3,USD
+OD-10088,03-04-2023,08-04-2023,2023,April,Ohio,Central,Home Office,Technology,Accessories,Product_15,1869.06,1504.23,364.83,14,0.1,USD
+OD-10089,02-09-2022,07-09-2022,2022,September,Washington,South,Consumer,Technology,Phones,Product_24,972.3,1121.53,-149.23,15,0.3,USD
+OD-10090,11-11-2023,18-11-2023,2023,November,New York,South,Consumer,Office Supplies,Binders,Product_17,1932.44,1413.49,518.95,6,0.0,USD
+OD-10091,27-03-2023,28-03-2023,2023,March,New York,East,Home Office,Office Supplies,Paper,Product_14,1748.32,1455.7,292.62,3,0.0,USD
+OD-10092,29-09-2022,02-10-2022,2022,September,Texas,South,Home Office,Office Supplies,Art,Product_28,690.7,698.62,-7.92,11,0.3,USD
+OD-10093,04-10-2023,10-10-2023,2023,October,Texas,East,Home Office,Technology,Laptops,Product_8,1280.76,1153.51,127.25,15,0.2,USD
+OD-10094,04-02-2024,05-02-2024,2024,February,New York,East,Corporate,Technology,Phones,Product_23,633.96,550.85,83.11,1,0.0,USD
+OD-10095,27-02-2022,02-03-2022,2022,February,Florida,South,Consumer,Technology,Accessories,Product_17,853.5,859.9,-6.4,11,0.1,USD
+OD-10096,22-03-2022,27-03-2022,2022,March,New York,West,Corporate,Technology,Laptops,Product_8,949.24,1125.96,-176.72,5,0.3,USD
+OD-10097,10-01-2022,17-01-2022,2022,January,Arizona,West,Consumer,Technology,Accessories,Product_12,1975.92,2128.9,-152.98,5,0.3,USD
+OD-10098,13-04-2023,20-04-2023,2023,April,Texas,South,Corporate,Technology,Phones,Product_8,793.66,715.74,77.92,6,0.2,USD
+OD-10099,30-10-2022,31-10-2022,2022,October,California,Central,Consumer,Office Supplies,Paper,Product_30,1232.49,1178.34,54.15,8,0.2,USD
+OD-10100,24-08-2022,29-08-2022,2022,August,Illinois,West,Home Office,Technology,Phones,Product_22,1523.38,1360.28,163.1,13,0.1,USD
+OD-10101,05-10-2023,11-10-2023,2023,October,Washington,South,Consumer,Furniture,Tables,Product_24,306.25,327.17,-20.92,15,0.2,USD
+OD-10102,02-03-2023,04-03-2023,2023,March,Illinois,Central,Home Office,Furniture,Chairs,Product_27,370.86,373.88,-3.02,15,0.3,USD
+OD-10103,30-10-2022,05-11-2022,2022,October,New York,South,Consumer,Technology,Phones,Product_25,1934.68,1950.51,-15.83,14,0.3,USD
+OD-10104,03-04-2024,08-04-2024,2024,April,Illinois,South,Consumer,Technology,Phones,Product_18,291.0,292.12,-1.12,6,0.2,USD
+OD-10105,22-04-2024,28-04-2024,2024,April,California,West,Corporate,Technology,Phones,Product_20,1774.26,1634.42,139.84,9,0.2,USD
+OD-10106,15-08-2022,21-08-2022,2022,August,Illinois,South,Home Office,Furniture,Bookcases,Product_21,846.18,603.69,242.49,3,0.0,USD
+OD-10107,08-11-2022,12-11-2022,2022,November,New York,West,Home Office,Furniture,Chairs,Product_13,934.61,1031.03,-96.42,11,0.3,USD
+OD-10108,15-01-2024,17-01-2024,2024,January,Ohio,East,Corporate,Technology,Laptops,Product_9,113.8,106.88,6.92,6,0.1,USD
+OD-10109,30-08-2022,06-09-2022,2022,August,Washington,Central,Home Office,Technology,Phones,Product_2,826.37,588.99,237.38,4,0.0,USD
+OD-10110,23-04-2024,27-04-2024,2024,April,California,West,Home Office,Furniture,Bookcases,Product_2,1584.25,1351.77,232.48,4,0.1,USD
+OD-10111,30-07-2022,31-07-2022,2022,July,Washington,West,Consumer,Office Supplies,Binders,Product_25,337.73,297.43,40.3,15,0.0,USD
+OD-10112,29-05-2022,31-05-2022,2022,May,California,West,Consumer,Office Supplies,Paper,Product_5,78.98,71.3,7.68,13,0.1,USD
+OD-10113,17-01-2022,19-01-2022,2022,January,Ohio,West,Home Office,Technology,Phones,Product_17,271.62,309.08,-37.46,2,0.3,USD
+OD-10114,06-01-2023,11-01-2023,2023,January,Florida,South,Home Office,Office Supplies,Binders,Product_20,134.56,139.34,-4.78,13,0.2,USD
+OD-10115,01-02-2022,02-02-2022,2022,February,Texas,South,Home Office,Technology,Accessories,Product_16,1439.18,1043.67,395.51,8,0.0,USD
+OD-10116,26-11-2022,01-12-2022,2022,November,Washington,West,Corporate,Furniture,Chairs,Product_13,1989.52,2062.28,-72.76,9,0.2,USD
+OD-10117,12-09-2023,16-09-2023,2023,September,Florida,East,Home Office,Furniture,Bookcases,Product_14,930.53,1084.32,-153.79,4,0.3,USD
+OD-10118,10-04-2023,14-04-2023,2023,April,Ohio,East,Corporate,Technology,Laptops,Product_11,1346.96,1183.03,163.93,6,0.1,USD
+OD-10119,01-05-2023,02-05-2023,2023,May,Texas,East,Corporate,Furniture,Chairs,Product_24,1490.65,1357.84,132.81,13,0.1,USD
+OD-10120,24-08-2023,29-08-2023,2023,August,Washington,East,Corporate,Office Supplies,Paper,Product_28,1347.41,1391.84,-44.43,13,0.3,USD
+OD-10121,09-01-2024,10-01-2024,2024,January,Texas,Central,Corporate,Technology,Laptops,Product_19,1039.45,1241.04,-201.59,3,0.3,USD
+OD-10122,21-04-2022,24-04-2022,2022,April,Florida,East,Corporate,Office Supplies,Paper,Product_26,886.77,707.42,179.35,9,0.0,USD
+OD-10123,05-11-2023,12-11-2023,2023,November,Illinois,East,Consumer,Office Supplies,Paper,Product_23,1536.7,1632.35,-95.65,15,0.2,USD
+OD-10124,05-07-2022,12-07-2022,2022,July,New York,South,Consumer,Furniture,Bookcases,Product_24,1284.69,980.82,303.87,1,0.0,USD
+OD-10125,09-08-2022,13-08-2022,2022,August,Washington,Central,Consumer,Technology,Accessories,Product_10,1457.11,1062.47,394.64,13,0.0,USD
+OD-10126,09-06-2022,11-06-2022,2022,June,Arizona,East,Corporate,Office Supplies,Binders,Product_22,876.83,1005.25,-128.42,10,0.3,USD
+OD-10127,09-08-2022,16-08-2022,2022,August,Texas,Central,Corporate,Office Supplies,Binders,Product_10,1372.52,1534.84,-162.32,10,0.3,USD
+OD-10128,12-11-2022,13-11-2022,2022,November,Florida,East,Consumer,Furniture,Tables,Product_10,1893.38,1626.34,267.04,13,0.1,USD
+OD-10129,24-10-2022,27-10-2022,2022,October,Ohio,South,Home Office,Furniture,Chairs,Product_6,301.91,279.25,22.66,9,0.1,USD
+OD-10130,03-05-2024,09-05-2024,2024,May,California,South,Home Office,Technology,Phones,Product_14,86.55,63.57,22.98,15,0.0,USD
+OD-10131,13-08-2023,17-08-2023,2023,August,Texas,South,Corporate,Office Supplies,Paper,Product_13,90.67,77.04,13.63,6,0.1,USD
+OD-10132,25-09-2023,29-09-2023,2023,September,Texas,East,Corporate,Office Supplies,Paper,Product_8,899.57,765.59,133.98,7,0.0,USD
+OD-10133,14-11-2022,20-11-2022,2022,November,Texas,Central,Consumer,Technology,Phones,Product_17,1284.79,1058.05,226.74,9,0.1,USD
+OD-10134,24-12-2022,27-12-2022,2022,December,Texas,West,Consumer,Office Supplies,Art,Product_5,549.14,472.23,76.91,3,0.1,USD
+OD-10135,03-11-2023,04-11-2023,2023,November,Arizona,South,Corporate,Furniture,Bookcases,Product_22,1852.1,1729.75,122.35,10,0.2,USD
+OD-10136,05-10-2023,08-10-2023,2023,October,Arizona,East,Corporate,Furniture,Tables,Product_21,640.5,552.12,88.38,5,0.0,USD
+OD-10137,17-03-2022,20-03-2022,2022,March,Washington,East,Consumer,Technology,Accessories,Product_27,609.8,485.55,124.25,11,0.0,USD
+OD-10138,04-06-2023,08-06-2023,2023,June,Florida,East,Corporate,Technology,Laptops,Product_11,1229.76,996.81,232.95,9,0.1,USD
+OD-10139,07-04-2023,08-04-2023,2023,April,New York,East,Home Office,Technology,Laptops,Product_2,533.1,596.53,-63.43,8,0.3,USD
+OD-10140,17-09-2023,19-09-2023,2023,September,Ohio,Central,Corporate,Technology,Accessories,Product_25,709.82,534.28,175.54,10,0.0,USD
+OD-10141,25-10-2023,28-10-2023,2023,October,Ohio,East,Home Office,Furniture,Tables,Product_10,541.39,523.34,18.05,14,0.1,USD
+OD-10142,20-08-2023,26-08-2023,2023,August,Ohio,Central,Home Office,Furniture,Tables,Product_5,1210.33,1222.76,-12.43,2,0.2,USD
+OD-10143,21-10-2023,28-10-2023,2023,October,Ohio,East,Home Office,Technology,Phones,Product_17,755.56,834.84,-79.28,6,0.2,USD
+OD-10144,08-08-2022,11-08-2022,2022,August,New York,West,Consumer,Technology,Phones,Product_3,626.79,515.9,110.89,13,0.0,USD
+OD-10145,07-07-2023,14-07-2023,2023,July,Washington,East,Home Office,Office Supplies,Art,Product_29,1544.3,1870.82,-326.52,3,0.3,USD
+OD-10146,05-07-2022,12-07-2022,2022,July,Arizona,West,Home Office,Office Supplies,Art,Product_2,851.17,687.41,163.76,11,0.1,USD
+OD-10147,18-09-2023,21-09-2023,2023,September,Florida,West,Home Office,Office Supplies,Paper,Product_10,1932.91,1979.31,-46.4,13,0.3,USD
+OD-10148,18-07-2022,21-07-2022,2022,July,Illinois,South,Corporate,Office Supplies,Art,Product_25,794.65,801.35,-6.7,9,0.3,USD
+OD-10149,16-04-2024,18-04-2024,2024,April,Arizona,Central,Consumer,Office Supplies,Binders,Product_28,773.86,597.54,176.32,15,0.0,USD
+OD-10150,13-06-2023,20-06-2023,2023,June,Illinois,East,Consumer,Furniture,Tables,Product_15,1815.35,2227.56,-412.21,3,0.3,USD
+OD-10151,16-08-2022,23-08-2022,2022,August,California,East,Corporate,Technology,Accessories,Product_13,1028.91,1030.32,-1.41,4,0.3,USD
+OD-10152,19-01-2023,21-01-2023,2023,January,Washington,East,Home Office,Furniture,Tables,Product_26,334.8,308.23,26.57,1,0.2,USD
+OD-10153,29-04-2023,05-05-2023,2023,April,California,South,Corporate,Furniture,Bookcases,Product_29,204.49,172.03,32.46,5,0.1,USD
+OD-10154,16-07-2023,22-07-2023,2023,July,Illinois,South,Consumer,Office Supplies,Art,Product_8,637.24,602.22,35.02,1,0.1,USD
+OD-10155,23-03-2024,28-03-2024,2024,March,California,East,Corporate,Technology,Phones,Product_21,1054.98,1030.91,24.07,4,0.1,USD
+OD-10156,02-01-2022,07-01-2022,2022,January,Texas,South,Consumer,Technology,Phones,Product_17,1950.58,1662.65,287.93,2,0.0,USD
+OD-10157,27-04-2023,28-04-2023,2023,April,California,Central,Corporate,Office Supplies,Paper,Product_12,1587.61,1376.08,211.53,6,0.1,USD
+OD-10158,06-10-2023,07-10-2023,2023,October,California,Central,Consumer,Office Supplies,Art,Product_12,1114.73,939.05,175.68,14,0.1,USD
+OD-10159,03-12-2023,07-12-2023,2023,December,Texas,West,Consumer,Office Supplies,Paper,Product_23,1563.57,1370.69,192.88,8,0.0,USD
+OD-10160,14-02-2022,21-02-2022,2022,February,Ohio,Central,Corporate,Furniture,Chairs,Product_27,1108.91,844.63,264.28,5,0.0,USD
+OD-10161,15-07-2022,18-07-2022,2022,July,Texas,Central,Corporate,Technology,Phones,Product_26,767.64,816.9,-49.26,15,0.3,USD
+OD-10162,31-01-2023,03-02-2023,2023,January,Illinois,South,Corporate,Furniture,Tables,Product_26,211.09,177.81,33.28,7,0.0,USD
+OD-10163,22-04-2024,24-04-2024,2024,April,Texas,Central,Consumer,Office Supplies,Paper,Product_11,1338.79,1471.79,-133.0,5,0.3,USD
+OD-10164,13-03-2023,15-03-2023,2023,March,California,Central,Corporate,Office Supplies,Paper,Product_24,1746.57,2063.33,-316.76,6,0.3,USD
+OD-10165,21-03-2024,22-03-2024,2024,March,New York,South,Corporate,Furniture,Bookcases,Product_1,328.42,407.67,-79.25,10,0.3,USD
+OD-10166,10-03-2022,12-03-2022,2022,March,California,Central,Corporate,Office Supplies,Paper,Product_20,349.2,369.1,-19.9,8,0.2,USD
+OD-10167,21-02-2024,22-02-2024,2024,February,Washington,Central,Corporate,Office Supplies,Binders,Product_21,593.45,454.63,138.82,2,0.0,USD
+OD-10168,27-05-2023,01-06-2023,2023,May,Illinois,East,Corporate,Technology,Laptops,Product_23,920.23,898.61,21.62,10,0.2,USD
+OD-10169,18-05-2023,20-05-2023,2023,May,New York,East,Corporate,Furniture,Chairs,Product_29,1441.07,1416.63,24.44,2,0.2,USD
+OD-10170,28-12-2023,29-12-2023,2023,December,New York,Central,Corporate,Office Supplies,Art,Product_23,1433.65,1220.86,212.79,12,0.1,USD
+OD-10171,05-06-2023,07-06-2023,2023,June,Arizona,West,Consumer,Furniture,Chairs,Product_1,753.75,778.74,-24.99,10,0.2,USD
+OD-10172,19-07-2023,21-07-2023,2023,July,Ohio,East,Corporate,Office Supplies,Binders,Product_23,1451.8,1535.58,-83.78,9,0.3,USD
+OD-10173,23-04-2024,28-04-2024,2024,April,Texas,Central,Home Office,Furniture,Chairs,Product_15,958.37,1071.38,-113.01,9,0.2,USD
+OD-10174,28-04-2024,05-05-2024,2024,April,Ohio,West,Consumer,Office Supplies,Art,Product_17,1825.89,1498.1,327.79,1,0.0,USD
+OD-10175,08-11-2022,10-11-2022,2022,November,Illinois,West,Corporate,Furniture,Tables,Product_28,203.78,227.97,-24.19,4,0.2,USD
+OD-10176,07-11-2022,12-11-2022,2022,November,New York,West,Home Office,Office Supplies,Binders,Product_6,1334.53,1253.61,80.92,12,0.2,USD
+OD-10177,01-08-2023,02-08-2023,2023,August,Illinois,East,Home Office,Furniture,Chairs,Product_21,461.08,505.1,-44.02,10,0.3,USD
+OD-10178,01-02-2022,05-02-2022,2022,February,Illinois,Central,Home Office,Office Supplies,Art,Product_16,527.51,620.16,-92.65,13,0.3,USD
+OD-10179,16-03-2022,22-03-2022,2022,March,Arizona,South,Corporate,Furniture,Chairs,Product_15,447.84,435.24,12.6,10,0.1,USD
+OD-10180,06-01-2024,09-01-2024,2024,January,Washington,South,Consumer,Office Supplies,Paper,Product_17,1145.22,1068.93,76.29,6,0.1,USD
+OD-10181,01-10-2022,05-10-2022,2022,October,Illinois,East,Consumer,Furniture,Chairs,Product_13,1735.12,1404.28,330.84,7,0.1,USD
+OD-10182,13-06-2022,20-06-2022,2022,June,New York,Central,Consumer,Technology,Laptops,Product_16,1992.14,2052.36,-60.22,8,0.3,USD
+OD-10183,25-05-2023,26-05-2023,2023,May,Florida,South,Consumer,Furniture,Tables,Product_19,738.15,757.55,-19.4,1,0.2,USD
+OD-10184,13-05-2024,19-05-2024,2024,May,California,Central,Home Office,Office Supplies,Paper,Product_28,259.62,251.34,8.28,3,0.2,USD
+OD-10185,22-02-2024,26-02-2024,2024,February,Florida,South,Consumer,Technology,Phones,Product_12,1128.78,1268.68,-139.9,2,0.3,USD
+OD-10186,22-02-2024,27-02-2024,2024,February,Texas,East,Consumer,Technology,Laptops,Product_13,777.74,747.61,30.13,6,0.2,USD
+OD-10187,23-07-2022,28-07-2022,2022,July,California,East,Consumer,Office Supplies,Paper,Product_5,1441.5,1614.72,-173.22,13,0.3,USD
+OD-10188,02-06-2022,07-06-2022,2022,June,Washington,Central,Home Office,Office Supplies,Binders,Product_6,816.26,817.54,-1.28,10,0.2,USD
+OD-10189,04-06-2023,11-06-2023,2023,June,Illinois,South,Home Office,Office Supplies,Art,Product_16,1640.71,1610.44,30.27,6,0.2,USD
+OD-10190,03-03-2023,08-03-2023,2023,March,Arizona,East,Home Office,Technology,Laptops,Product_9,1935.79,1683.46,252.33,13,0.1,USD
+OD-10191,21-08-2023,25-08-2023,2023,August,Florida,South,Consumer,Furniture,Bookcases,Product_2,1166.51,1052.55,113.96,12,0.0,USD
+OD-10192,28-03-2023,31-03-2023,2023,March,Florida,South,Home Office,Technology,Phones,Product_14,1028.55,1061.25,-32.7,10,0.3,USD
+OD-10193,24-01-2024,30-01-2024,2024,January,Florida,West,Home Office,Furniture,Bookcases,Product_18,683.85,764.98,-81.13,11,0.3,USD
+OD-10194,18-11-2022,20-11-2022,2022,November,Washington,Central,Home Office,Technology,Laptops,Product_22,1555.38,1551.46,3.92,12,0.2,USD
+OD-10195,16-07-2022,18-07-2022,2022,July,Illinois,Central,Consumer,Technology,Laptops,Product_25,613.56,718.32,-104.76,4,0.3,USD
+OD-10196,24-12-2022,29-12-2022,2022,December,Ohio,Central,Consumer,Office Supplies,Paper,Product_29,1961.31,1787.44,173.87,14,0.2,USD
+OD-10197,03-04-2024,05-04-2024,2024,April,Texas,Central,Home Office,Technology,Phones,Product_12,1851.82,1783.61,68.21,11,0.2,USD
+OD-10198,08-08-2022,10-08-2022,2022,August,Texas,Central,Consumer,Office Supplies,Paper,Product_20,1494.74,1550.51,-55.77,4,0.1,USD
+OD-10199,28-06-2023,30-06-2023,2023,June,Ohio,East,Consumer,Office Supplies,Binders,Product_11,1448.85,1519.42,-70.57,2,0.1,USD
+OD-10200,18-07-2023,20-07-2023,2023,July,Florida,South,Corporate,Technology,Laptops,Product_25,1929.63,1907.49,22.14,6,0.2,USD
+OD-10201,27-02-2024,28-02-2024,2024,February,California,West,Home Office,Office Supplies,Art,Product_30,1846.87,1508.01,338.86,7,0.1,USD
+OD-10202,07-02-2022,14-02-2022,2022,February,Illinois,West,Home Office,Technology,Accessories,Product_29,123.06,88.34,34.72,5,0.0,USD
+OD-10203,10-12-2022,13-12-2022,2022,December,Arizona,South,Consumer,Technology,Laptops,Product_9,425.98,472.57,-46.59,2,0.2,USD
+OD-10204,15-04-2023,21-04-2023,2023,April,Washington,West,Consumer,Technology,Laptops,Product_26,625.3,629.13,-3.83,11,0.1,USD
+OD-10205,26-05-2024,01-06-2024,2024,May,Ohio,Central,Consumer,Technology,Accessories,Product_22,236.0,275.91,-39.91,3,0.3,USD
+OD-10206,12-09-2022,13-09-2022,2022,September,Illinois,West,Corporate,Technology,Accessories,Product_11,638.79,565.08,73.71,12,0.0,USD
+OD-10207,04-01-2023,10-01-2023,2023,January,Illinois,East,Corporate,Furniture,Chairs,Product_6,840.56,821.59,18.97,9,0.2,USD
+OD-10208,17-10-2023,20-10-2023,2023,October,New York,West,Consumer,Technology,Laptops,Product_16,348.71,364.76,-16.05,12,0.2,USD
+OD-10209,17-07-2023,21-07-2023,2023,July,Texas,West,Consumer,Office Supplies,Art,Product_17,921.16,1041.35,-120.19,12,0.2,USD
+OD-10210,01-08-2023,02-08-2023,2023,August,New York,West,Home Office,Furniture,Bookcases,Product_6,689.83,842.24,-152.41,9,0.3,USD
+OD-10211,30-07-2022,05-08-2022,2022,July,Arizona,East,Home Office,Office Supplies,Paper,Product_26,158.49,180.01,-21.52,3,0.3,USD
+OD-10212,01-03-2022,06-03-2022,2022,March,California,Central,Home Office,Technology,Laptops,Product_13,546.19,494.53,51.66,1,0.1,USD
+OD-10213,16-02-2022,20-02-2022,2022,February,California,East,Home Office,Technology,Laptops,Product_30,1793.73,2227.93,-434.2,15,0.3,USD
+OD-10214,23-02-2023,25-02-2023,2023,February,Ohio,South,Corporate,Furniture,Bookcases,Product_15,1745.76,2018.25,-272.49,15,0.3,USD
+OD-10215,01-12-2023,07-12-2023,2023,December,New York,Central,Consumer,Office Supplies,Binders,Product_18,816.46,686.88,129.58,3,0.1,USD
+OD-10216,14-02-2024,15-02-2024,2024,February,Ohio,South,Home Office,Technology,Accessories,Product_27,497.84,553.21,-55.37,8,0.2,USD
+OD-10217,13-07-2022,19-07-2022,2022,July,California,South,Home Office,Furniture,Chairs,Product_8,451.86,378.83,73.03,2,0.0,USD
+OD-10218,20-11-2023,26-11-2023,2023,November,Arizona,East,Corporate,Furniture,Chairs,Product_8,1102.53,1008.78,93.75,13,0.0,USD
+OD-10219,24-10-2022,26-10-2022,2022,October,Washington,Central,Home Office,Office Supplies,Art,Product_8,638.44,604.35,34.09,3,0.1,USD
+OD-10220,09-10-2022,10-10-2022,2022,October,Ohio,West,Home Office,Office Supplies,Art,Product_18,1016.46,1070.89,-54.43,6,0.3,USD
+OD-10221,23-11-2022,29-11-2022,2022,November,Ohio,West,Corporate,Technology,Accessories,Product_6,1521.11,1274.18,246.93,8,0.1,USD
+OD-10222,04-11-2022,11-11-2022,2022,November,Ohio,South,Consumer,Office Supplies,Binders,Product_14,1136.71,1351.87,-215.16,3,0.3,USD
+OD-10223,28-07-2022,31-07-2022,2022,July,Texas,South,Corporate,Office Supplies,Binders,Product_18,1462.94,1291.61,171.33,4,0.0,USD
+OD-10224,21-11-2023,26-11-2023,2023,November,Florida,East,Consumer,Office Supplies,Binders,Product_16,457.33,491.27,-33.94,15,0.2,USD
+OD-10225,16-01-2022,18-01-2022,2022,January,Arizona,East,Home Office,Furniture,Bookcases,Product_30,523.06,497.35,25.71,10,0.1,USD
+OD-10226,03-09-2022,08-09-2022,2022,September,Washington,South,Corporate,Technology,Accessories,Product_10,560.05,634.82,-74.77,9,0.3,USD
+OD-10227,02-04-2024,08-04-2024,2024,April,Washington,West,Corporate,Technology,Accessories,Product_14,139.15,120.32,18.83,14,0.1,USD
+OD-10228,17-01-2022,20-01-2022,2022,January,New York,South,Corporate,Office Supplies,Art,Product_7,693.24,641.37,51.87,7,0.1,USD
+OD-10229,02-11-2023,08-11-2023,2023,November,Arizona,South,Home Office,Technology,Accessories,Product_15,378.06,418.77,-40.71,13,0.2,USD
+OD-10230,08-01-2024,13-01-2024,2024,January,California,East,Home Office,Technology,Phones,Product_27,1701.06,1290.96,410.1,14,0.0,USD
+OD-10231,27-02-2023,01-03-2023,2023,February,New York,East,Home Office,Office Supplies,Binders,Product_1,476.5,540.77,-64.27,8,0.2,USD
+OD-10232,16-10-2023,22-10-2023,2023,October,California,South,Consumer,Office Supplies,Paper,Product_18,1125.7,920.42,205.28,1,0.0,USD
+OD-10233,09-10-2022,14-10-2022,2022,October,Texas,South,Consumer,Technology,Phones,Product_30,237.81,238.29,-0.48,3,0.1,USD
+OD-10234,24-06-2023,27-06-2023,2023,June,Washington,South,Consumer,Technology,Accessories,Product_13,945.05,921.43,23.62,4,0.1,USD
+OD-10235,27-04-2024,04-05-2024,2024,April,Ohio,East,Consumer,Furniture,Bookcases,Product_13,785.48,621.17,164.31,8,0.0,USD
+OD-10236,21-12-2023,23-12-2023,2023,December,Washington,South,Home Office,Furniture,Tables,Product_19,1955.79,1745.66,210.13,2,0.0,USD
+OD-10237,07-06-2024,13-06-2024,2024,June,Texas,Central,Consumer,Office Supplies,Paper,Product_22,1854.89,1678.97,175.92,15,0.0,USD
+OD-10238,20-05-2024,23-05-2024,2024,May,Ohio,West,Home Office,Furniture,Chairs,Product_30,200.03,181.69,18.34,3,0.1,USD
+OD-10239,19-05-2024,23-05-2024,2024,May,New York,Central,Corporate,Office Supplies,Art,Product_26,1977.53,1631.07,346.46,12,0.0,USD
+OD-10240,21-12-2022,22-12-2022,2022,December,Washington,West,Consumer,Furniture,Tables,Product_20,1549.56,1561.6,-12.04,10,0.3,USD
+OD-10241,01-12-2022,02-12-2022,2022,December,Florida,South,Corporate,Office Supplies,Paper,Product_12,1128.42,1358.13,-229.71,7,0.3,USD
+OD-10242,23-08-2023,29-08-2023,2023,August,Texas,Central,Consumer,Technology,Phones,Product_3,572.55,495.31,77.24,7,0.1,USD
+OD-10243,21-11-2022,24-11-2022,2022,November,Arizona,East,Corporate,Furniture,Chairs,Product_12,1534.63,1577.87,-43.24,2,0.1,USD
+OD-10244,18-03-2023,22-03-2023,2023,March,California,South,Consumer,Office Supplies,Art,Product_3,740.13,691.33,48.8,2,0.2,USD
+OD-10245,13-01-2022,16-01-2022,2022,January,Florida,East,Home Office,Technology,Accessories,Product_19,1066.15,1287.51,-221.36,11,0.3,USD
+OD-10246,03-10-2022,06-10-2022,2022,October,New York,West,Consumer,Technology,Accessories,Product_14,588.13,620.09,-31.96,5,0.3,USD
+OD-10247,05-01-2023,08-01-2023,2023,January,Florida,South,Home Office,Furniture,Bookcases,Product_15,258.6,184.33,74.27,5,0.0,USD
+OD-10248,07-12-2022,14-12-2022,2022,December,Washington,Central,Corporate,Office Supplies,Paper,Product_14,1640.18,1599.0,41.18,14,0.1,USD
+OD-10249,10-09-2023,16-09-2023,2023,September,Ohio,Central,Consumer,Furniture,Tables,Product_11,618.32,623.3,-4.98,12,0.3,USD
+OD-10250,11-03-2024,13-03-2024,2024,March,Washington,Central,Corporate,Technology,Accessories,Product_4,1867.53,1642.63,224.9,4,0.1,USD
+OD-10251,18-07-2023,19-07-2023,2023,July,Illinois,West,Corporate,Office Supplies,Paper,Product_27,1401.03,1515.57,-114.54,14,0.3,USD
+OD-10252,23-05-2022,29-05-2022,2022,May,New York,Central,Home Office,Technology,Phones,Product_23,875.1,733.1,142.0,7,0.0,USD
+OD-10253,05-09-2023,09-09-2023,2023,September,California,South,Home Office,Office Supplies,Paper,Product_26,1938.43,1788.51,149.92,12,0.0,USD
+OD-10254,12-09-2022,18-09-2022,2022,September,California,West,Home Office,Office Supplies,Paper,Product_19,1968.04,1984.37,-16.33,11,0.3,USD
+OD-10255,06-12-2022,13-12-2022,2022,December,Illinois,East,Consumer,Technology,Phones,Product_8,1045.82,981.56,64.26,9,0.1,USD
+OD-10256,05-02-2023,09-02-2023,2023,February,California,West,Corporate,Office Supplies,Art,Product_16,253.87,233.81,20.06,7,0.0,USD
+OD-10257,18-01-2024,20-01-2024,2024,January,Florida,Central,Corporate,Technology,Accessories,Product_17,991.71,833.49,158.22,8,0.0,USD
+OD-10258,15-12-2023,19-12-2023,2023,December,Texas,Central,Consumer,Technology,Phones,Product_1,1705.9,1331.82,374.08,11,0.0,USD
+OD-10259,18-06-2022,24-06-2022,2022,June,New York,West,Home Office,Furniture,Bookcases,Product_11,1141.71,971.09,170.62,8,0.1,USD
+OD-10260,07-10-2023,09-10-2023,2023,October,California,South,Corporate,Furniture,Bookcases,Product_24,1247.51,1374.69,-127.18,4,0.3,USD
+OD-10261,03-02-2023,04-02-2023,2023,February,Texas,West,Corporate,Office Supplies,Binders,Product_19,248.42,238.12,10.3,14,0.1,USD
+OD-10262,21-07-2022,25-07-2022,2022,July,Washington,South,Home Office,Furniture,Tables,Product_20,807.85,697.19,110.66,7,0.0,USD
+OD-10263,15-05-2024,19-05-2024,2024,May,Texas,Central,Home Office,Office Supplies,Binders,Product_22,311.2,303.0,8.2,2,0.1,USD
+OD-10264,07-07-2022,10-07-2022,2022,July,New York,South,Corporate,Office Supplies,Binders,Product_19,798.23,870.97,-72.74,3,0.3,USD
+OD-10265,12-12-2023,18-12-2023,2023,December,Illinois,West,Corporate,Furniture,Bookcases,Product_5,414.84,454.31,-39.47,14,0.3,USD
+OD-10266,05-06-2024,08-06-2024,2024,June,Ohio,West,Consumer,Furniture,Tables,Product_18,1035.6,1117.23,-81.63,8,0.3,USD
+OD-10267,02-03-2023,08-03-2023,2023,March,California,West,Consumer,Technology,Accessories,Product_26,1534.06,1351.95,182.11,5,0.0,USD
+OD-10268,05-07-2023,08-07-2023,2023,July,Texas,South,Home Office,Furniture,Tables,Product_19,272.7,276.65,-3.95,13,0.2,USD
+OD-10269,14-02-2024,15-02-2024,2024,February,Texas,West,Corporate,Office Supplies,Paper,Product_24,1668.64,1627.88,40.76,13,0.1,USD
+OD-10270,03-02-2022,07-02-2022,2022,February,Texas,East,Corporate,Technology,Accessories,Product_25,1633.18,1526.6,106.58,4,0.2,USD
+OD-10271,17-09-2023,23-09-2023,2023,September,Florida,West,Consumer,Technology,Phones,Product_26,165.75,165.88,-0.13,6,0.2,USD
+OD-10272,22-06-2022,25-06-2022,2022,June,Illinois,Central,Home Office,Office Supplies,Paper,Product_28,1053.11,964.76,88.35,15,0.0,USD
+OD-10273,08-02-2024,15-02-2024,2024,February,New York,Central,Home Office,Technology,Phones,Product_23,1738.85,1516.54,222.31,4,0.1,USD
+OD-10274,28-04-2024,30-04-2024,2024,April,Illinois,South,Consumer,Office Supplies,Paper,Product_21,857.74,678.98,178.76,8,0.0,USD
+OD-10275,27-02-2024,28-02-2024,2024,February,Washington,Central,Home Office,Technology,Laptops,Product_15,1903.0,1394.47,508.53,6,0.0,USD
+OD-10276,17-05-2024,23-05-2024,2024,May,Washington,South,Home Office,Furniture,Bookcases,Product_28,173.49,207.41,-33.92,9,0.3,USD
+OD-10277,16-03-2023,23-03-2023,2023,March,Illinois,Central,Corporate,Furniture,Tables,Product_11,1117.26,1176.39,-59.13,3,0.3,USD
+OD-10278,30-11-2023,07-12-2023,2023,November,Arizona,East,Home Office,Furniture,Chairs,Product_1,292.26,274.63,17.63,14,0.1,USD
+OD-10279,01-01-2022,05-01-2022,2022,January,Illinois,West,Home Office,Furniture,Bookcases,Product_6,1755.13,1977.44,-222.31,15,0.2,USD
+OD-10280,05-01-2023,08-01-2023,2023,January,Ohio,West,Consumer,Furniture,Tables,Product_21,645.74,608.73,37.01,12,0.1,USD
+OD-10281,04-04-2022,10-04-2022,2022,April,Texas,West,Corporate,Furniture,Chairs,Product_5,1207.68,1506.8,-299.12,9,0.3,USD
+OD-10282,14-12-2023,17-12-2023,2023,December,Texas,West,Corporate,Furniture,Tables,Product_8,796.99,736.58,60.41,12,0.0,USD
+OD-10283,12-01-2023,15-01-2023,2023,January,New York,West,Home Office,Furniture,Tables,Product_3,1084.49,1019.39,65.1,1,0.1,USD
+OD-10284,10-01-2024,12-01-2024,2024,January,Arizona,West,Corporate,Office Supplies,Art,Product_28,473.63,433.37,40.26,15,0.0,USD
+OD-10285,07-05-2022,12-05-2022,2022,May,Washington,Central,Corporate,Office Supplies,Paper,Product_26,322.67,286.52,36.15,5,0.0,USD
+OD-10286,08-09-2023,13-09-2023,2023,September,California,Central,Home Office,Office Supplies,Art,Product_28,1701.79,1869.65,-167.86,15,0.2,USD
+OD-10287,14-09-2023,19-09-2023,2023,September,California,South,Corporate,Furniture,Bookcases,Product_26,1800.93,2077.42,-276.49,4,0.3,USD
+OD-10288,04-09-2022,08-09-2022,2022,September,California,East,Home Office,Office Supplies,Art,Product_12,1871.15,1936.26,-65.11,3,0.3,USD
+OD-10289,06-08-2023,10-08-2023,2023,August,Texas,West,Corporate,Technology,Laptops,Product_1,1195.36,1310.19,-114.83,1,0.2,USD
+OD-10290,03-03-2022,10-03-2022,2022,March,Ohio,Central,Home Office,Technology,Laptops,Product_14,1418.53,1391.06,27.47,2,0.1,USD
+OD-10291,14-11-2022,15-11-2022,2022,November,Washington,West,Home Office,Office Supplies,Binders,Product_13,1193.55,1041.32,152.23,13,0.0,USD
+OD-10292,24-03-2023,30-03-2023,2023,March,Ohio,West,Consumer,Furniture,Chairs,Product_4,934.08,815.15,118.93,10,0.0,USD
+OD-10293,30-01-2024,05-02-2024,2024,January,New York,East,Consumer,Office Supplies,Binders,Product_23,72.13,73.52,-1.39,8,0.2,USD
+OD-10294,12-03-2024,19-03-2024,2024,March,New York,West,Corporate,Office Supplies,Paper,Product_24,1573.19,1191.13,382.06,5,0.0,USD
+OD-10295,31-01-2022,03-02-2022,2022,January,Texas,East,Corporate,Technology,Accessories,Product_16,937.64,773.64,164.0,6,0.0,USD
+OD-10296,04-08-2023,06-08-2023,2023,August,Texas,Central,Consumer,Technology,Phones,Product_8,1494.52,1098.96,395.56,1,0.0,USD
+OD-10297,13-01-2022,15-01-2022,2022,January,New York,Central,Corporate,Furniture,Tables,Product_6,1865.76,1514.59,351.17,14,0.0,USD
+OD-10298,02-01-2024,08-01-2024,2024,January,Florida,West,Corporate,Office Supplies,Paper,Product_14,1835.92,1732.19,103.73,6,0.2,USD
+OD-10299,09-08-2023,12-08-2023,2023,August,Florida,East,Consumer,Furniture,Bookcases,Product_26,1055.76,1301.51,-245.75,1,0.3,USD
+OD-10300,22-04-2023,29-04-2023,2023,April,Arizona,Central,Consumer,Technology,Accessories,Product_1,769.39,742.54,26.85,5,0.2,USD
+OD-10301,06-09-2022,10-09-2022,2022,September,Florida,South,Consumer,Technology,Laptops,Product_5,62.44,55.68,6.76,7,0.0,USD
+OD-10302,21-12-2022,27-12-2022,2022,December,Ohio,Central,Consumer,Office Supplies,Binders,Product_28,1489.26,1338.4,150.86,5,0.0,USD
+OD-10303,01-09-2022,05-09-2022,2022,September,Illinois,West,Home Office,Technology,Phones,Product_3,135.61,145.75,-10.14,4,0.3,USD
+OD-10304,17-01-2023,21-01-2023,2023,January,New York,East,Home Office,Office Supplies,Binders,Product_21,1648.93,1387.17,261.76,2,0.0,USD
+OD-10305,14-05-2022,16-05-2022,2022,May,Washington,Central,Corporate,Technology,Accessories,Product_11,932.88,666.18,266.7,4,0.0,USD
+OD-10306,20-05-2022,27-05-2022,2022,May,New York,West,Consumer,Office Supplies,Binders,Product_15,958.81,782.41,176.4,7,0.0,USD
+OD-10307,28-02-2024,01-03-2024,2024,February,Texas,South,Corporate,Technology,Accessories,Product_3,357.35,337.13,20.22,11,0.2,USD
+OD-10308,15-12-2023,20-12-2023,2023,December,Texas,Central,Consumer,Furniture,Chairs,Product_23,534.03,598.99,-64.96,6,0.3,USD
+OD-10309,25-11-2023,28-11-2023,2023,November,Arizona,East,Corporate,Technology,Phones,Product_18,1508.75,1259.04,249.71,4,0.0,USD
+OD-10310,03-04-2024,10-04-2024,2024,April,Florida,East,Consumer,Furniture,Chairs,Product_5,436.36,426.95,9.41,7,0.2,USD
+OD-10311,23-10-2023,24-10-2023,2023,October,California,Central,Consumer,Office Supplies,Art,Product_3,435.61,456.38,-20.77,11,0.3,USD
+OD-10312,05-04-2022,12-04-2022,2022,April,California,East,Corporate,Technology,Phones,Product_6,1852.06,2085.36,-233.3,7,0.3,USD
+OD-10313,27-01-2023,02-02-2023,2023,January,New York,Central,Consumer,Technology,Phones,Product_9,595.72,620.35,-24.63,15,0.1,USD
+OD-10314,27-09-2023,02-10-2023,2023,September,Ohio,Central,Corporate,Furniture,Bookcases,Product_29,1123.84,989.04,134.8,1,0.0,USD
+OD-10315,21-05-2022,25-05-2022,2022,May,California,West,Home Office,Furniture,Bookcases,Product_13,1574.74,1754.06,-179.32,6,0.3,USD
+OD-10316,12-05-2023,15-05-2023,2023,May,Illinois,Central,Corporate,Office Supplies,Art,Product_6,100.82,105.12,-4.3,10,0.1,USD
+OD-10317,10-04-2024,17-04-2024,2024,April,Washington,South,Home Office,Technology,Phones,Product_25,1188.78,1218.46,-29.68,4,0.1,USD
+OD-10318,04-11-2023,06-11-2023,2023,November,Ohio,East,Consumer,Technology,Laptops,Product_12,1873.65,1884.84,-11.19,14,0.1,USD
+OD-10319,30-08-2023,02-09-2023,2023,August,California,Central,Home Office,Office Supplies,Art,Product_23,1416.09,1287.54,128.55,10,0.1,USD
+OD-10320,12-07-2022,19-07-2022,2022,July,Arizona,Central,Consumer,Technology,Laptops,Product_2,226.0,236.17,-10.17,4,0.1,USD
+OD-10321,05-05-2023,06-05-2023,2023,May,Washington,West,Consumer,Technology,Laptops,Product_23,396.05,449.56,-53.51,13,0.2,USD
+OD-10322,01-06-2022,06-06-2022,2022,June,Washington,East,Home Office,Office Supplies,Binders,Product_3,778.5,859.07,-80.57,11,0.3,USD
+OD-10323,11-12-2022,14-12-2022,2022,December,Ohio,West,Home Office,Technology,Phones,Product_26,1296.57,1434.59,-138.02,8,0.2,USD
+OD-10324,30-07-2023,05-08-2023,2023,July,New York,West,Home Office,Office Supplies,Paper,Product_13,648.31,724.92,-76.61,12,0.2,USD
+OD-10325,17-01-2024,18-01-2024,2024,January,California,South,Home Office,Office Supplies,Art,Product_6,1224.66,1090.06,134.6,15,0.1,USD
+OD-10326,17-04-2022,21-04-2022,2022,April,Washington,East,Consumer,Furniture,Tables,Product_11,377.38,280.99,96.39,15,0.0,USD
+OD-10327,18-11-2023,24-11-2023,2023,November,Illinois,South,Consumer,Office Supplies,Paper,Product_7,536.6,582.66,-46.06,2,0.2,USD
+OD-10328,21-04-2022,27-04-2022,2022,April,Ohio,South,Corporate,Furniture,Chairs,Product_6,1774.88,2062.75,-287.87,8,0.3,USD
+OD-10329,20-01-2023,21-01-2023,2023,January,Arizona,West,Consumer,Technology,Laptops,Product_3,1608.43,1841.62,-233.19,1,0.2,USD
+OD-10330,25-09-2022,26-09-2022,2022,September,New York,West,Corporate,Furniture,Tables,Product_24,196.25,169.86,26.39,15,0.0,USD
+OD-10331,21-09-2023,25-09-2023,2023,September,New York,South,Home Office,Office Supplies,Binders,Product_20,1785.02,1650.58,134.44,3,0.0,USD
+OD-10332,30-07-2022,01-08-2022,2022,July,Illinois,Central,Home Office,Technology,Laptops,Product_10,513.22,568.16,-54.94,1,0.3,USD
+OD-10333,10-05-2024,14-05-2024,2024,May,Ohio,Central,Consumer,Furniture,Chairs,Product_3,624.37,749.29,-124.92,11,0.3,USD
+OD-10334,27-01-2022,29-01-2022,2022,January,Arizona,Central,Consumer,Furniture,Bookcases,Product_28,275.24,311.64,-36.4,13,0.3,USD
+OD-10335,08-11-2023,11-11-2023,2023,November,Washington,South,Consumer,Furniture,Bookcases,Product_29,793.82,983.42,-189.6,3,0.3,USD
+OD-10336,27-03-2023,31-03-2023,2023,March,California,Central,Home Office,Technology,Phones,Product_5,1516.86,1408.52,108.34,11,0.0,USD
+OD-10337,19-12-2022,26-12-2022,2022,December,California,West,Home Office,Office Supplies,Paper,Product_27,804.86,811.78,-6.92,9,0.3,USD
+OD-10338,05-12-2023,12-12-2023,2023,December,Illinois,West,Corporate,Technology,Laptops,Product_3,819.87,675.96,143.91,14,0.0,USD
+OD-10339,14-06-2023,21-06-2023,2023,June,Arizona,West,Consumer,Office Supplies,Art,Product_6,1900.67,1611.55,289.12,3,0.1,USD
+OD-10340,10-05-2022,11-05-2022,2022,May,New York,South,Consumer,Technology,Phones,Product_27,1210.34,1123.49,86.85,6,0.0,USD
+OD-10341,24-07-2023,28-07-2023,2023,July,Arizona,Central,Home Office,Office Supplies,Paper,Product_30,1753.26,2142.26,-389.0,13,0.3,USD
+OD-10342,03-06-2022,05-06-2022,2022,June,Texas,East,Consumer,Office Supplies,Art,Product_26,607.88,565.65,42.23,9,0.2,USD
+OD-10343,28-09-2022,02-10-2022,2022,September,New York,South,Consumer,Office Supplies,Paper,Product_9,835.8,1036.65,-200.85,10,0.3,USD
+OD-10344,19-06-2024,22-06-2024,2024,June,Arizona,East,Home Office,Office Supplies,Binders,Product_30,573.74,496.59,77.15,6,0.0,USD
+OD-10345,23-03-2024,26-03-2024,2024,March,Texas,South,Home Office,Technology,Accessories,Product_28,494.52,522.46,-27.94,5,0.3,USD
+OD-10346,25-11-2022,28-11-2022,2022,November,Arizona,East,Consumer,Office Supplies,Paper,Product_7,1831.19,1941.29,-110.1,7,0.3,USD
+OD-10347,07-06-2024,10-06-2024,2024,June,Illinois,West,Consumer,Furniture,Bookcases,Product_23,1038.25,941.24,97.01,3,0.0,USD
+OD-10348,15-06-2024,22-06-2024,2024,June,Arizona,West,Consumer,Furniture,Chairs,Product_2,1840.16,1806.13,34.03,12,0.1,USD
+OD-10349,23-04-2024,27-04-2024,2024,April,California,East,Home Office,Office Supplies,Paper,Product_8,776.31,935.92,-159.61,10,0.3,USD
+OD-10350,10-06-2024,14-06-2024,2024,June,New York,Central,Corporate,Office Supplies,Art,Product_27,1794.26,1576.67,217.59,12,0.0,USD
+OD-10351,31-01-2023,01-02-2023,2023,January,Florida,West,Consumer,Furniture,Bookcases,Product_22,453.13,508.27,-55.14,11,0.3,USD
+OD-10352,04-06-2024,11-06-2024,2024,June,New York,South,Consumer,Office Supplies,Binders,Product_20,1611.69,1608.33,3.36,4,0.2,USD
+OD-10353,09-11-2022,15-11-2022,2022,November,Ohio,Central,Corporate,Office Supplies,Art,Product_28,729.98,681.31,48.67,5,0.1,USD
+OD-10354,25-11-2023,30-11-2023,2023,November,Washington,East,Consumer,Office Supplies,Paper,Product_18,1312.32,1411.24,-98.92,10,0.2,USD
+OD-10355,21-04-2022,25-04-2022,2022,April,Washington,Central,Home Office,Furniture,Tables,Product_28,589.93,650.64,-60.71,11,0.2,USD
+OD-10356,14-06-2023,21-06-2023,2023,June,Washington,South,Home Office,Furniture,Chairs,Product_22,322.86,323.06,-0.2,1,0.3,USD
+OD-10357,23-09-2022,27-09-2022,2022,September,Florida,East,Home Office,Technology,Accessories,Product_11,1466.77,1501.05,-34.28,4,0.3,USD
+OD-10358,19-11-2023,22-11-2023,2023,November,New York,West,Home Office,Office Supplies,Paper,Product_10,240.33,232.81,7.52,3,0.2,USD
+OD-10359,27-07-2023,03-08-2023,2023,July,Texas,Central,Home Office,Furniture,Bookcases,Product_8,742.8,776.14,-33.34,12,0.2,USD
+OD-10360,06-12-2022,09-12-2022,2022,December,Texas,Central,Corporate,Technology,Laptops,Product_16,154.67,128.68,25.99,11,0.0,USD
+OD-10361,19-07-2022,24-07-2022,2022,July,Illinois,South,Home Office,Furniture,Bookcases,Product_14,155.42,157.85,-2.43,14,0.1,USD
+OD-10362,25-07-2022,28-07-2022,2022,July,Washington,South,Consumer,Technology,Laptops,Product_28,1445.55,1197.07,248.48,13,0.0,USD
+OD-10363,09-10-2023,11-10-2023,2023,October,Arizona,East,Consumer,Technology,Laptops,Product_9,458.3,415.19,43.11,13,0.1,USD
+OD-10364,12-06-2022,16-06-2022,2022,June,Ohio,South,Home Office,Furniture,Chairs,Product_13,886.6,1107.22,-220.62,8,0.3,USD
+OD-10365,01-07-2023,03-07-2023,2023,July,Florida,East,Corporate,Office Supplies,Paper,Product_1,1369.66,1360.67,8.99,11,0.1,USD
+OD-10366,17-06-2024,20-06-2024,2024,June,Illinois,East,Corporate,Technology,Phones,Product_6,177.31,161.86,15.45,1,0.2,USD
+OD-10367,12-04-2023,18-04-2023,2023,April,New York,Central,Corporate,Office Supplies,Art,Product_11,1992.47,1917.69,74.78,8,0.2,USD
+OD-10368,18-06-2022,25-06-2022,2022,June,New York,West,Consumer,Technology,Phones,Product_7,1481.45,1509.91,-28.46,10,0.1,USD
+OD-10369,30-12-2023,05-01-2024,2023,December,California,Central,Home Office,Furniture,Tables,Product_20,1989.63,1565.06,424.57,11,0.0,USD
+OD-10370,21-01-2022,22-01-2022,2022,January,Ohio,South,Corporate,Office Supplies,Binders,Product_4,1117.2,1115.67,1.53,8,0.1,USD
+OD-10371,04-12-2023,10-12-2023,2023,December,Texas,South,Home Office,Furniture,Tables,Product_22,1064.6,1006.36,58.24,10,0.1,USD
+OD-10372,18-04-2022,23-04-2022,2022,April,Texas,East,Corporate,Office Supplies,Art,Product_26,257.21,220.05,37.16,4,0.1,USD
+OD-10373,01-05-2024,06-05-2024,2024,May,New York,South,Corporate,Furniture,Tables,Product_2,1118.87,982.31,136.56,15,0.1,USD
+OD-10374,08-05-2023,11-05-2023,2023,May,Texas,East,Home Office,Furniture,Chairs,Product_30,265.34,321.78,-56.44,10,0.3,USD
+OD-10375,03-04-2022,10-04-2022,2022,April,Florida,East,Corporate,Office Supplies,Binders,Product_15,1977.9,2045.01,-67.11,5,0.2,USD
+OD-10376,13-04-2022,20-04-2022,2022,April,Washington,Central,Corporate,Furniture,Chairs,Product_14,1490.15,1412.04,78.11,2,0.0,USD
+OD-10377,22-05-2022,28-05-2022,2022,May,Arizona,Central,Corporate,Office Supplies,Binders,Product_20,573.2,491.14,82.06,12,0.0,USD
+OD-10378,17-12-2022,19-12-2022,2022,December,Illinois,South,Corporate,Furniture,Tables,Product_27,802.15,842.28,-40.13,14,0.3,USD
+OD-10379,27-10-2023,03-11-2023,2023,October,California,West,Home Office,Furniture,Chairs,Product_28,360.82,378.66,-17.84,7,0.3,USD
+OD-10380,26-11-2023,30-11-2023,2023,November,California,South,Corporate,Furniture,Bookcases,Product_28,1384.71,1286.71,98.0,14,0.1,USD
+OD-10381,15-05-2023,16-05-2023,2023,May,Illinois,East,Consumer,Technology,Accessories,Product_21,662.76,533.87,128.89,12,0.1,USD
+OD-10382,17-11-2023,24-11-2023,2023,November,Florida,East,Corporate,Technology,Laptops,Product_16,724.21,878.35,-154.14,11,0.3,USD
+OD-10383,26-04-2024,01-05-2024,2024,April,New York,East,Home Office,Office Supplies,Binders,Product_17,1705.25,1760.92,-55.67,14,0.3,USD
+OD-10384,18-03-2022,25-03-2022,2022,March,Illinois,West,Corporate,Technology,Accessories,Product_2,1038.51,1193.44,-154.93,9,0.3,USD
+OD-10385,29-08-2022,30-08-2022,2022,August,Arizona,South,Consumer,Technology,Accessories,Product_15,666.32,615.91,50.41,8,0.0,USD
+OD-10386,27-02-2023,28-02-2023,2023,February,Illinois,East,Consumer,Office Supplies,Art,Product_29,1041.26,1054.18,-12.92,4,0.3,USD
+OD-10387,08-01-2023,15-01-2023,2023,January,Arizona,South,Corporate,Furniture,Chairs,Product_23,1331.48,1626.4,-294.92,12,0.3,USD
+OD-10388,17-02-2024,23-02-2024,2024,February,Illinois,Central,Corporate,Furniture,Chairs,Product_18,1067.87,1002.26,65.61,12,0.0,USD
+OD-10389,18-06-2022,22-06-2022,2022,June,Illinois,South,Consumer,Furniture,Bookcases,Product_20,432.05,516.78,-84.73,2,0.3,USD
+OD-10390,24-04-2024,01-05-2024,2024,April,Ohio,Central,Consumer,Furniture,Bookcases,Product_2,1856.92,1405.62,451.3,14,0.0,USD
+OD-10391,07-04-2023,11-04-2023,2023,April,California,West,Corporate,Office Supplies,Art,Product_17,1485.62,1545.48,-59.86,9,0.3,USD
+OD-10392,10-05-2023,15-05-2023,2023,May,New York,West,Home Office,Furniture,Bookcases,Product_4,805.44,824.75,-19.31,10,0.2,USD
+OD-10393,29-01-2023,02-02-2023,2023,January,Ohio,West,Corporate,Office Supplies,Art,Product_11,1942.46,1972.48,-30.02,8,0.1,USD
+OD-10394,09-09-2023,15-09-2023,2023,September,Washington,Central,Home Office,Office Supplies,Art,Product_23,1486.8,1486.47,0.33,9,0.1,USD
+OD-10395,02-10-2023,08-10-2023,2023,October,New York,Central,Home Office,Technology,Laptops,Product_23,1317.67,1281.32,36.35,3,0.2,USD
+OD-10396,19-02-2024,22-02-2024,2024,February,Illinois,South,Home Office,Office Supplies,Paper,Product_29,1702.24,1394.68,307.56,13,0.0,USD
+OD-10397,26-01-2022,30-01-2022,2022,January,Illinois,East,Consumer,Furniture,Chairs,Product_25,1581.79,1761.15,-179.36,5,0.2,USD
+OD-10398,05-03-2022,11-03-2022,2022,March,Arizona,East,Corporate,Technology,Phones,Product_4,1251.41,1081.71,169.7,11,0.1,USD
+OD-10399,29-07-2023,02-08-2023,2023,July,California,Central,Home Office,Furniture,Bookcases,Product_30,794.09,721.46,72.63,7,0.2,USD
+OD-10400,25-02-2022,26-02-2022,2022,February,Arizona,West,Home Office,Office Supplies,Paper,Product_27,489.82,470.83,18.99,11,0.2,USD
+OD-10401,14-07-2023,20-07-2023,2023,July,Arizona,West,Corporate,Office Supplies,Binders,Product_6,1967.73,1592.64,375.09,2,0.1,USD
+OD-10402,23-01-2024,28-01-2024,2024,January,Illinois,East,Corporate,Furniture,Tables,Product_18,565.27,649.26,-83.99,3,0.2,USD
+OD-10403,23-04-2023,29-04-2023,2023,April,California,West,Corporate,Furniture,Chairs,Product_25,1868.14,1919.26,-51.12,10,0.2,USD
+OD-10404,10-08-2023,15-08-2023,2023,August,Florida,Central,Home Office,Technology,Phones,Product_6,1065.18,1007.68,57.5,13,0.1,USD
+OD-10405,04-07-2023,08-07-2023,2023,July,Washington,West,Consumer,Furniture,Tables,Product_11,753.56,754.19,-0.63,4,0.3,USD
+OD-10406,23-04-2024,30-04-2024,2024,April,Washington,East,Home Office,Office Supplies,Binders,Product_15,518.68,420.27,98.41,11,0.1,USD
+OD-10407,30-11-2023,03-12-2023,2023,November,Illinois,South,Corporate,Technology,Phones,Product_1,1827.11,1866.25,-39.14,14,0.2,USD
+OD-10408,05-06-2023,09-06-2023,2023,June,Florida,Central,Home Office,Technology,Phones,Product_11,1052.09,849.13,202.96,2,0.1,USD
+OD-10409,02-03-2024,07-03-2024,2024,March,Florida,East,Consumer,Office Supplies,Binders,Product_28,1386.54,1245.95,140.59,14,0.0,USD
+OD-10410,28-04-2024,04-05-2024,2024,April,New York,East,Home Office,Office Supplies,Paper,Product_1,945.49,877.53,67.96,6,0.0,USD
+OD-10411,25-02-2022,27-02-2022,2022,February,Florida,East,Home Office,Technology,Laptops,Product_30,554.36,605.61,-51.25,7,0.3,USD
+OD-10412,20-03-2023,23-03-2023,2023,March,California,East,Home Office,Furniture,Tables,Product_21,1454.56,1126.96,327.6,2,0.0,USD
+OD-10413,16-03-2022,19-03-2022,2022,March,Illinois,Central,Home Office,Office Supplies,Binders,Product_20,218.69,252.51,-33.82,13,0.3,USD
+OD-10414,21-04-2024,27-04-2024,2024,April,Florida,West,Home Office,Furniture,Tables,Product_5,1506.17,1370.56,135.61,13,0.2,USD
+OD-10415,28-05-2022,31-05-2022,2022,May,New York,Central,Consumer,Office Supplies,Art,Product_4,131.46,146.67,-15.21,10,0.3,USD
+OD-10416,29-03-2022,01-04-2022,2022,March,Ohio,Central,Consumer,Furniture,Bookcases,Product_29,1309.57,1322.35,-12.78,9,0.1,USD
+OD-10417,15-08-2022,20-08-2022,2022,August,California,East,Consumer,Technology,Phones,Product_28,1514.53,1649.07,-134.54,9,0.3,USD
+OD-10418,16-03-2022,19-03-2022,2022,March,Florida,Central,Consumer,Office Supplies,Binders,Product_24,1182.16,1321.59,-139.43,6,0.2,USD
+OD-10419,03-11-2023,05-11-2023,2023,November,Washington,East,Consumer,Furniture,Tables,Product_16,928.76,907.06,21.7,10,0.2,USD
+OD-10420,06-06-2022,11-06-2022,2022,June,New York,Central,Corporate,Office Supplies,Paper,Product_1,660.77,576.16,84.61,13,0.1,USD
+OD-10421,19-10-2023,23-10-2023,2023,October,Washington,West,Home Office,Technology,Accessories,Product_29,985.91,942.83,43.08,8,0.2,USD
+OD-10422,14-05-2023,19-05-2023,2023,May,New York,East,Corporate,Furniture,Chairs,Product_29,1100.31,845.2,255.11,5,0.0,USD
+OD-10423,20-01-2022,27-01-2022,2022,January,Ohio,East,Home Office,Office Supplies,Art,Product_25,1200.57,974.98,225.59,15,0.0,USD
+OD-10424,11-07-2023,16-07-2023,2023,July,Ohio,West,Corporate,Technology,Laptops,Product_8,1788.3,1996.69,-208.39,10,0.2,USD
+OD-10425,29-05-2023,03-06-2023,2023,May,California,Central,Home Office,Furniture,Tables,Product_22,515.82,443.97,71.85,13,0.1,USD
+OD-10426,24-05-2022,28-05-2022,2022,May,Arizona,West,Home Office,Furniture,Chairs,Product_12,128.82,153.56,-24.74,13,0.3,USD
+OD-10427,28-09-2022,01-10-2022,2022,September,Washington,West,Home Office,Furniture,Chairs,Product_13,965.86,907.93,57.93,8,0.0,USD
+OD-10428,27-10-2023,30-10-2023,2023,October,Illinois,Central,Home Office,Furniture,Bookcases,Product_19,1111.48,1207.71,-96.23,3,0.3,USD
+OD-10429,10-01-2023,15-01-2023,2023,January,Florida,Central,Corporate,Office Supplies,Binders,Product_17,841.39,865.19,-23.8,14,0.2,USD
+OD-10430,09-05-2023,14-05-2023,2023,May,New York,West,Corporate,Furniture,Bookcases,Product_8,200.32,219.78,-19.46,11,0.2,USD
+OD-10431,11-07-2022,13-07-2022,2022,July,Florida,East,Home Office,Technology,Laptops,Product_14,1631.79,1353.77,278.02,12,0.0,USD
+OD-10432,06-05-2023,10-05-2023,2023,May,Ohio,West,Home Office,Furniture,Bookcases,Product_1,525.16,533.73,-8.57,3,0.1,USD
+OD-10433,09-06-2023,10-06-2023,2023,June,Illinois,East,Consumer,Office Supplies,Binders,Product_30,401.07,292.93,108.14,7,0.0,USD
+OD-10434,16-01-2024,22-01-2024,2024,January,Arizona,West,Corporate,Technology,Phones,Product_28,989.25,1087.97,-98.72,4,0.3,USD
+OD-10435,24-03-2024,29-03-2024,2024,March,Washington,Central,Consumer,Furniture,Bookcases,Product_30,934.27,833.88,100.39,10,0.0,USD
+OD-10436,30-01-2023,01-02-2023,2023,January,Ohio,West,Home Office,Furniture,Chairs,Product_27,341.64,318.08,23.56,2,0.1,USD
+OD-10437,22-09-2023,27-09-2023,2023,September,Arizona,East,Consumer,Furniture,Bookcases,Product_22,304.14,220.73,83.41,10,0.0,USD
+OD-10438,04-03-2024,10-03-2024,2024,March,California,South,Corporate,Office Supplies,Paper,Product_23,1083.14,1140.13,-56.99,4,0.3,USD
+OD-10439,26-01-2023,29-01-2023,2023,January,New York,East,Corporate,Office Supplies,Art,Product_9,980.43,861.98,118.45,4,0.0,USD
+OD-10440,16-06-2024,21-06-2024,2024,June,California,West,Consumer,Technology,Accessories,Product_19,1068.95,915.28,153.67,9,0.0,USD
+OD-10441,30-07-2022,05-08-2022,2022,July,New York,Central,Consumer,Technology,Accessories,Product_14,1320.57,1236.39,84.18,5,0.2,USD
+OD-10442,10-03-2023,15-03-2023,2023,March,Ohio,Central,Home Office,Technology,Laptops,Product_25,447.2,539.02,-91.82,9,0.3,USD
+OD-10443,27-07-2023,01-08-2023,2023,July,Washington,Central,Home Office,Technology,Accessories,Product_25,1425.71,1192.25,233.46,12,0.1,USD
+OD-10444,07-11-2023,08-11-2023,2023,November,New York,South,Home Office,Office Supplies,Binders,Product_4,468.19,444.68,23.51,7,0.2,USD
+OD-10445,21-09-2023,27-09-2023,2023,September,Ohio,East,Consumer,Office Supplies,Art,Product_21,60.32,56.22,4.1,2,0.1,USD
+OD-10446,07-09-2023,11-09-2023,2023,September,Washington,Central,Consumer,Furniture,Chairs,Product_3,1237.61,1259.06,-21.45,12,0.3,USD
+OD-10447,15-02-2023,20-02-2023,2023,February,California,Central,Home Office,Office Supplies,Art,Product_25,1649.45,1880.8,-231.35,11,0.3,USD
+OD-10448,26-07-2022,02-08-2022,2022,July,California,Central,Consumer,Office Supplies,Art,Product_26,1219.05,1092.52,126.53,9,0.1,USD
+OD-10449,22-11-2023,23-11-2023,2023,November,Texas,East,Consumer,Technology,Phones,Product_9,1570.36,1803.77,-233.41,6,0.3,USD
+OD-10450,25-07-2022,30-07-2022,2022,July,Illinois,East,Consumer,Furniture,Bookcases,Product_24,1668.04,1773.35,-105.31,15,0.2,USD
+OD-10451,15-04-2024,18-04-2024,2024,April,Ohio,West,Corporate,Furniture,Bookcases,Product_19,59.07,66.36,-7.29,3,0.3,USD
+OD-10452,27-07-2023,28-07-2023,2023,July,Illinois,Central,Consumer,Office Supplies,Paper,Product_29,1098.91,1073.03,25.88,13,0.2,USD
+OD-10453,22-01-2023,27-01-2023,2023,January,Arizona,Central,Corporate,Technology,Phones,Product_29,1194.31,1458.17,-263.86,1,0.3,USD
+OD-10454,11-03-2022,15-03-2022,2022,March,Ohio,West,Corporate,Office Supplies,Binders,Product_12,1057.18,1150.14,-92.96,1,0.2,USD
+OD-10455,06-04-2022,10-04-2022,2022,April,New York,Central,Consumer,Office Supplies,Art,Product_16,662.05,731.1,-69.05,4,0.2,USD
+OD-10456,04-02-2024,10-02-2024,2024,February,Florida,West,Consumer,Furniture,Tables,Product_28,567.54,477.45,90.09,4,0.1,USD
+OD-10457,06-05-2024,11-05-2024,2024,May,Texas,East,Consumer,Technology,Phones,Product_22,1913.77,1452.43,461.34,8,0.0,USD
+OD-10458,09-07-2023,10-07-2023,2023,July,Illinois,Central,Corporate,Technology,Accessories,Product_16,406.6,427.15,-20.55,13,0.2,USD
+OD-10459,08-02-2024,13-02-2024,2024,February,California,South,Corporate,Furniture,Chairs,Product_17,727.21,680.45,46.76,14,0.1,USD
+OD-10460,04-05-2022,10-05-2022,2022,May,California,Central,Home Office,Office Supplies,Paper,Product_1,1364.5,1185.26,179.24,7,0.0,USD
+OD-10461,20-09-2023,27-09-2023,2023,September,Illinois,Central,Consumer,Technology,Phones,Product_16,1919.13,2118.76,-199.63,6,0.2,USD
+OD-10462,11-03-2023,13-03-2023,2023,March,Ohio,Central,Corporate,Technology,Laptops,Product_9,928.92,747.95,180.97,10,0.1,USD
+OD-10463,04-12-2023,06-12-2023,2023,December,Ohio,Central,Consumer,Furniture,Bookcases,Product_28,792.72,738.62,54.1,3,0.1,USD
+OD-10464,10-01-2022,12-01-2022,2022,January,Washington,West,Home Office,Technology,Accessories,Product_26,998.91,849.47,149.44,5,0.0,USD
+OD-10465,09-12-2023,11-12-2023,2023,December,Texas,Central,Corporate,Furniture,Chairs,Product_15,1501.96,1591.96,-90.0,5,0.2,USD
+OD-10466,25-07-2023,01-08-2023,2023,July,Texas,East,Corporate,Technology,Accessories,Product_12,1741.37,1577.31,164.06,10,0.1,USD
+OD-10467,28-10-2023,03-11-2023,2023,October,Washington,Central,Corporate,Office Supplies,Binders,Product_22,1045.37,1074.21,-28.84,13,0.3,USD
+OD-10468,26-01-2023,31-01-2023,2023,January,Washington,West,Consumer,Technology,Accessories,Product_14,1280.98,1329.37,-48.39,10,0.3,USD
+OD-10469,15-03-2022,16-03-2022,2022,March,Washington,West,Corporate,Furniture,Tables,Product_21,618.14,730.76,-112.62,5,0.3,USD
+OD-10470,01-04-2023,08-04-2023,2023,April,New York,South,Corporate,Technology,Laptops,Product_6,1715.71,1517.54,198.17,3,0.1,USD
+OD-10471,01-02-2024,07-02-2024,2024,February,Ohio,West,Consumer,Office Supplies,Binders,Product_4,236.33,263.01,-26.68,15,0.3,USD
+OD-10472,27-01-2022,03-02-2022,2022,January,Illinois,East,Consumer,Technology,Laptops,Product_20,352.79,413.7,-60.91,11,0.3,USD
+OD-10473,11-09-2022,17-09-2022,2022,September,New York,West,Consumer,Technology,Accessories,Product_1,118.55,110.72,7.83,6,0.2,USD
+OD-10474,24-04-2023,01-05-2023,2023,April,New York,South,Consumer,Office Supplies,Paper,Product_19,1215.29,1360.07,-144.78,11,0.3,USD
+OD-10475,17-10-2023,22-10-2023,2023,October,Florida,South,Home Office,Technology,Accessories,Product_26,224.63,235.18,-10.55,5,0.2,USD
+OD-10476,09-06-2022,12-06-2022,2022,June,Illinois,West,Corporate,Furniture,Chairs,Product_16,1093.44,1107.94,-14.5,12,0.3,USD
+OD-10477,04-05-2023,07-05-2023,2023,May,Florida,Central,Home Office,Furniture,Tables,Product_26,64.08,60.69,3.39,6,0.1,USD
+OD-10478,29-07-2023,02-08-2023,2023,July,Ohio,West,Home Office,Technology,Phones,Product_27,787.8,665.25,122.55,5,0.0,USD
+OD-10479,03-09-2022,08-09-2022,2022,September,Illinois,Central,Corporate,Office Supplies,Art,Product_14,416.6,423.2,-6.6,2,0.1,USD
+OD-10480,24-04-2022,30-04-2022,2022,April,Arizona,South,Corporate,Technology,Laptops,Product_7,675.26,477.79,197.47,3,0.0,USD
+OD-10481,23-01-2022,25-01-2022,2022,January,Arizona,Central,Consumer,Furniture,Tables,Product_24,66.0,69.06,-3.06,2,0.1,USD
+OD-10482,11-08-2022,14-08-2022,2022,August,Arizona,South,Corporate,Technology,Accessories,Product_23,1593.28,1177.61,415.67,6,0.0,USD
+OD-10483,30-05-2022,31-05-2022,2022,May,Arizona,East,Home Office,Technology,Accessories,Product_6,424.77,401.7,23.07,14,0.2,USD
+OD-10484,28-04-2024,29-04-2024,2024,April,Arizona,West,Corporate,Furniture,Bookcases,Product_8,1488.36,1391.31,97.05,1,0.1,USD
+OD-10485,29-02-2024,01-03-2024,2024,February,Ohio,West,Corporate,Office Supplies,Art,Product_22,1924.37,2136.72,-212.35,15,0.2,USD
+OD-10486,16-01-2024,17-01-2024,2024,January,Arizona,East,Corporate,Office Supplies,Art,Product_21,632.69,464.45,168.24,6,0.0,USD
+OD-10487,12-08-2022,13-08-2022,2022,August,California,South,Corporate,Furniture,Bookcases,Product_6,1599.06,1360.88,238.18,10,0.0,USD
+OD-10488,06-09-2022,07-09-2022,2022,September,New York,South,Home Office,Furniture,Bookcases,Product_12,1553.05,1436.6,116.45,4,0.1,USD
+OD-10489,04-12-2023,09-12-2023,2023,December,Washington,East,Consumer,Technology,Laptops,Product_21,350.14,321.62,28.52,9,0.0,USD
+OD-10490,27-08-2022,30-08-2022,2022,August,Florida,Central,Corporate,Office Supplies,Art,Product_1,1394.04,1376.37,17.67,6,0.1,USD
+OD-10491,10-02-2022,14-02-2022,2022,February,Arizona,Central,Home Office,Office Supplies,Paper,Product_7,1155.07,1234.86,-79.79,9,0.2,USD
+OD-10492,25-04-2023,28-04-2023,2023,April,New York,West,Consumer,Office Supplies,Art,Product_15,626.56,649.42,-22.86,5,0.2,USD
+OD-10493,05-03-2024,11-03-2024,2024,March,Washington,West,Consumer,Office Supplies,Paper,Product_25,1259.38,989.15,270.23,6,0.0,USD
+OD-10494,06-07-2023,13-07-2023,2023,July,New York,South,Home Office,Technology,Phones,Product_20,602.1,675.79,-73.69,7,0.2,USD
+OD-10495,20-06-2023,26-06-2023,2023,June,California,West,Consumer,Furniture,Chairs,Product_7,258.76,243.76,15.0,4,0.0,USD
+OD-10496,20-10-2023,27-10-2023,2023,October,Illinois,South,Home Office,Technology,Laptops,Product_2,764.39,723.67,40.72,10,0.0,USD
+OD-10497,02-08-2022,08-08-2022,2022,August,California,South,Home Office,Technology,Phones,Product_12,1138.14,1188.78,-50.64,15,0.3,USD
+OD-10498,24-03-2024,30-03-2024,2024,March,California,Central,Home Office,Furniture,Bookcases,Product_24,187.26,133.68,53.58,5,0.0,USD
+OD-10499,16-06-2023,17-06-2023,2023,June,Ohio,West,Home Office,Furniture,Bookcases,Product_7,426.58,387.12,39.46,11,0.1,USD
+OD-10500,03-07-2022,08-07-2022,2022,July,Texas,South,Home Office,Office Supplies,Art,Product_25,1295.32,1391.64,-96.32,6,0.3,USD
+OD-10501,14-03-2023,15-03-2023,2023,March,Washington,South,Home Office,Furniture,Chairs,Product_22,358.44,364.4,-5.96,10,0.3,USD
+OD-10502,19-11-2022,24-11-2022,2022,November,Ohio,South,Home Office,Technology,Accessories,Product_27,1465.44,1332.4,133.04,10,0.1,USD
+OD-10503,08-08-2022,12-08-2022,2022,August,Arizona,Central,Corporate,Office Supplies,Art,Product_15,1921.66,1353.35,568.31,1,0.0,USD
+OD-10504,03-09-2023,04-09-2023,2023,September,Illinois,Central,Consumer,Office Supplies,Binders,Product_8,468.9,355.01,113.89,6,0.0,USD
+OD-10505,08-12-2023,15-12-2023,2023,December,California,West,Consumer,Technology,Laptops,Product_15,743.53,786.83,-43.3,3,0.2,USD
+OD-10506,20-08-2023,22-08-2023,2023,August,Ohio,Central,Consumer,Furniture,Tables,Product_19,1839.87,1415.05,424.82,12,0.0,USD
+OD-10507,22-03-2024,26-03-2024,2024,March,Illinois,East,Home Office,Furniture,Tables,Product_2,1475.04,1814.86,-339.82,10,0.3,USD
+OD-10508,27-02-2022,06-03-2022,2022,February,Texas,South,Corporate,Technology,Accessories,Product_28,1552.26,1228.66,323.6,12,0.0,USD
+OD-10509,10-10-2023,14-10-2023,2023,October,New York,East,Corporate,Furniture,Tables,Product_11,1029.68,1068.16,-38.48,4,0.1,USD
+OD-10510,20-01-2024,24-01-2024,2024,January,Ohio,East,Consumer,Technology,Laptops,Product_10,1583.42,1529.52,53.9,3,0.1,USD
+OD-10511,03-05-2023,08-05-2023,2023,May,Texas,South,Corporate,Office Supplies,Binders,Product_13,1028.56,884.04,144.52,13,0.1,USD
+OD-10512,08-05-2023,13-05-2023,2023,May,Florida,South,Home Office,Furniture,Tables,Product_18,1251.19,1237.95,13.24,12,0.1,USD
+OD-10513,30-09-2022,07-10-2022,2022,September,Ohio,East,Consumer,Technology,Accessories,Product_14,762.27,810.96,-48.69,4,0.2,USD
+OD-10514,03-11-2023,04-11-2023,2023,November,Arizona,Central,Home Office,Technology,Phones,Product_20,334.35,334.38,-0.03,1,0.1,USD
+OD-10515,18-01-2023,20-01-2023,2023,January,California,East,Home Office,Office Supplies,Binders,Product_8,1900.43,1582.7,317.73,15,0.1,USD
+OD-10516,19-04-2024,22-04-2024,2024,April,Arizona,East,Corporate,Furniture,Tables,Product_16,94.36,94.27,0.09,4,0.1,USD
+OD-10517,20-06-2023,27-06-2023,2023,June,New York,South,Home Office,Technology,Laptops,Product_23,1412.57,1559.83,-147.26,1,0.3,USD
+OD-10518,11-11-2023,16-11-2023,2023,November,Illinois,West,Consumer,Furniture,Tables,Product_7,1588.92,1806.17,-217.25,10,0.2,USD
+OD-10519,02-11-2023,03-11-2023,2023,November,Washington,Central,Home Office,Furniture,Tables,Product_28,260.39,310.44,-50.05,5,0.3,USD
+OD-10520,25-01-2023,30-01-2023,2023,January,Texas,Central,Corporate,Office Supplies,Binders,Product_6,437.81,411.57,26.24,8,0.0,USD
+OD-10521,27-06-2023,30-06-2023,2023,June,New York,South,Home Office,Technology,Accessories,Product_1,726.22,721.64,4.58,6,0.2,USD
+OD-10522,30-08-2022,04-09-2022,2022,August,California,Central,Corporate,Technology,Phones,Product_18,1900.78,1833.4,67.38,4,0.1,USD
+OD-10523,07-02-2023,13-02-2023,2023,February,Florida,South,Home Office,Furniture,Chairs,Product_14,518.7,522.52,-3.82,3,0.3,USD
+OD-10524,12-09-2023,15-09-2023,2023,September,New York,West,Consumer,Technology,Laptops,Product_19,1105.64,922.49,183.15,13,0.1,USD
+OD-10525,13-11-2022,19-11-2022,2022,November,New York,West,Corporate,Office Supplies,Art,Product_21,1869.41,1814.5,54.91,15,0.1,USD
+OD-10526,25-07-2023,30-07-2023,2023,July,New York,West,Corporate,Office Supplies,Binders,Product_24,107.49,108.53,-1.04,6,0.3,USD
+OD-10527,07-11-2022,11-11-2022,2022,November,Florida,Central,Consumer,Office Supplies,Art,Product_4,306.51,306.08,0.43,1,0.2,USD
+OD-10528,20-09-2023,22-09-2023,2023,September,California,West,Home Office,Office Supplies,Binders,Product_12,204.98,249.35,-44.37,13,0.3,USD
+OD-10529,16-05-2024,21-05-2024,2024,May,Ohio,Central,Consumer,Technology,Laptops,Product_16,974.0,967.6,6.4,3,0.1,USD
+OD-10530,23-02-2023,02-03-2023,2023,February,Florida,South,Consumer,Furniture,Tables,Product_25,448.9,463.81,-14.91,3,0.3,USD
+OD-10531,17-05-2023,23-05-2023,2023,May,Ohio,West,Corporate,Technology,Accessories,Product_25,131.56,140.76,-9.2,12,0.3,USD
+OD-10532,08-02-2023,13-02-2023,2023,February,Texas,East,Home Office,Office Supplies,Art,Product_15,940.96,687.42,253.54,15,0.0,USD
+OD-10533,09-09-2022,14-09-2022,2022,September,Ohio,East,Home Office,Office Supplies,Paper,Product_17,1542.06,1506.91,35.15,1,0.1,USD
+OD-10534,12-02-2023,15-02-2023,2023,February,Illinois,West,Corporate,Technology,Accessories,Product_20,1842.11,1720.72,121.39,12,0.1,USD
+OD-10535,24-10-2023,28-10-2023,2023,October,New York,East,Consumer,Furniture,Bookcases,Product_13,856.44,775.32,81.12,8,0.0,USD
+OD-10536,28-08-2023,03-09-2023,2023,August,Washington,East,Corporate,Furniture,Tables,Product_23,1314.72,1144.34,170.38,12,0.1,USD
+OD-10537,07-05-2022,08-05-2022,2022,May,Washington,South,Home Office,Furniture,Bookcases,Product_3,1071.44,1023.58,47.86,7,0.1,USD
+OD-10538,25-01-2023,26-01-2023,2023,January,New York,West,Consumer,Furniture,Tables,Product_6,1549.86,1817.96,-268.1,1,0.3,USD
+OD-10539,18-01-2024,25-01-2024,2024,January,New York,West,Consumer,Technology,Accessories,Product_7,56.89,65.25,-8.36,13,0.2,USD
+OD-10540,25-05-2023,01-06-2023,2023,May,Arizona,East,Home Office,Technology,Laptops,Product_8,472.9,537.48,-64.58,11,0.3,USD
+OD-10541,29-03-2023,30-03-2023,2023,March,Illinois,East,Consumer,Office Supplies,Art,Product_20,1275.84,1324.03,-48.19,14,0.1,USD
+OD-10542,01-06-2022,02-06-2022,2022,June,California,East,Consumer,Office Supplies,Paper,Product_22,1177.28,1256.42,-79.14,10,0.2,USD
+OD-10543,31-03-2022,01-04-2022,2022,March,Illinois,West,Consumer,Furniture,Tables,Product_20,1338.8,1082.32,256.48,12,0.1,USD
+OD-10544,07-02-2024,12-02-2024,2024,February,Washington,East,Corporate,Technology,Phones,Product_12,1800.18,1368.84,431.34,14,0.0,USD
+OD-10545,13-05-2024,18-05-2024,2024,May,Texas,South,Consumer,Furniture,Tables,Product_23,1725.85,1930.95,-205.1,6,0.3,USD
+OD-10546,14-12-2023,16-12-2023,2023,December,Texas,East,Home Office,Office Supplies,Binders,Product_16,1461.94,1525.15,-63.21,10,0.2,USD
+OD-10547,18-05-2024,21-05-2024,2024,May,Arizona,Central,Consumer,Technology,Laptops,Product_17,1471.91,1542.57,-70.66,8,0.3,USD
+OD-10548,17-09-2023,19-09-2023,2023,September,Texas,West,Consumer,Office Supplies,Paper,Product_1,956.53,732.35,224.18,13,0.0,USD
+OD-10549,01-08-2022,08-08-2022,2022,August,Washington,South,Consumer,Office Supplies,Paper,Product_12,1142.81,1196.72,-53.91,11,0.1,USD
+OD-10550,26-07-2022,01-08-2022,2022,July,Illinois,East,Corporate,Technology,Accessories,Product_17,1122.49,1034.42,88.07,13,0.0,USD
+OD-10551,08-12-2022,11-12-2022,2022,December,Florida,East,Consumer,Technology,Laptops,Product_11,1675.96,1711.09,-35.13,15,0.3,USD
+OD-10552,27-03-2024,28-03-2024,2024,March,Arizona,South,Consumer,Office Supplies,Binders,Product_29,1737.19,1796.92,-59.73,15,0.2,USD
+OD-10553,13-04-2024,17-04-2024,2024,April,Washington,Central,Home Office,Office Supplies,Binders,Product_18,1094.98,1040.36,54.62,4,0.2,USD
+OD-10554,25-03-2024,28-03-2024,2024,March,Washington,Central,Consumer,Furniture,Chairs,Product_13,1271.7,1153.76,117.94,14,0.1,USD
+OD-10555,03-02-2023,05-02-2023,2023,February,Washington,Central,Home Office,Office Supplies,Binders,Product_23,111.68,92.22,19.46,7,0.0,USD
+OD-10556,01-09-2022,04-09-2022,2022,September,Illinois,West,Home Office,Technology,Accessories,Product_6,268.85,203.13,65.72,13,0.0,USD
+OD-10557,05-04-2022,09-04-2022,2022,April,New York,South,Home Office,Office Supplies,Binders,Product_7,713.23,681.93,31.3,8,0.2,USD
+OD-10558,27-05-2022,03-06-2022,2022,May,California,West,Consumer,Furniture,Bookcases,Product_15,805.8,764.68,41.12,14,0.0,USD
+OD-10559,15-02-2022,21-02-2022,2022,February,California,Central,Corporate,Office Supplies,Binders,Product_4,1065.13,1218.91,-153.78,11,0.2,USD
+OD-10560,16-02-2024,19-02-2024,2024,February,Florida,Central,Consumer,Office Supplies,Binders,Product_10,589.47,637.94,-48.47,6,0.3,USD
+OD-10561,07-10-2022,09-10-2022,2022,October,Texas,East,Consumer,Furniture,Tables,Product_7,1107.93,1199.04,-91.11,9,0.2,USD
+OD-10562,23-12-2023,30-12-2023,2023,December,Texas,West,Consumer,Technology,Laptops,Product_10,1245.86,1541.53,-295.67,6,0.3,USD
+OD-10563,30-01-2022,03-02-2022,2022,January,California,East,Corporate,Office Supplies,Binders,Product_3,881.61,966.18,-84.57,3,0.3,USD
+OD-10564,16-11-2022,19-11-2022,2022,November,New York,East,Corporate,Furniture,Bookcases,Product_3,1635.06,2004.07,-369.01,15,0.3,USD
+OD-10565,14-11-2022,20-11-2022,2022,November,Florida,South,Corporate,Office Supplies,Art,Product_8,330.26,304.43,25.83,15,0.2,USD
+OD-10566,06-02-2023,08-02-2023,2023,February,Arizona,Central,Corporate,Office Supplies,Art,Product_16,109.02,93.99,15.03,8,0.0,USD
+OD-10567,18-04-2023,25-04-2023,2023,April,New York,Central,Home Office,Furniture,Tables,Product_17,250.72,217.76,32.96,14,0.0,USD
+OD-10568,28-10-2023,29-10-2023,2023,October,Ohio,South,Corporate,Technology,Laptops,Product_8,1260.71,1016.8,243.91,9,0.1,USD
+OD-10569,29-01-2023,30-01-2023,2023,January,Washington,South,Corporate,Technology,Phones,Product_18,1403.56,1073.95,329.61,3,0.0,USD
+OD-10570,30-12-2023,04-01-2024,2023,December,Texas,South,Corporate,Technology,Phones,Product_27,918.17,1131.73,-213.56,5,0.3,USD
+OD-10571,22-04-2022,28-04-2022,2022,April,California,Central,Corporate,Office Supplies,Paper,Product_3,474.34,360.84,113.5,3,0.0,USD
+OD-10572,08-11-2023,10-11-2023,2023,November,Arizona,Central,Corporate,Technology,Laptops,Product_7,451.04,484.9,-33.86,15,0.2,USD
+OD-10573,24-03-2024,30-03-2024,2024,March,California,Central,Consumer,Technology,Accessories,Product_20,1973.52,1651.59,321.93,7,0.1,USD
+OD-10574,05-03-2022,08-03-2022,2022,March,Washington,East,Home Office,Office Supplies,Binders,Product_4,1729.43,1541.25,188.18,14,0.0,USD
+OD-10575,21-12-2023,26-12-2023,2023,December,Ohio,Central,Home Office,Technology,Laptops,Product_13,794.05,702.24,91.81,9,0.1,USD
+OD-10576,02-05-2023,04-05-2023,2023,May,Ohio,South,Corporate,Furniture,Bookcases,Product_5,612.52,622.58,-10.06,14,0.1,USD
+OD-10577,15-03-2022,21-03-2022,2022,March,Ohio,South,Home Office,Furniture,Chairs,Product_5,215.09,222.61,-7.52,11,0.3,USD
+OD-10578,18-03-2024,24-03-2024,2024,March,Ohio,West,Corporate,Office Supplies,Paper,Product_18,1649.14,1803.44,-154.3,7,0.2,USD
+OD-10579,11-03-2023,16-03-2023,2023,March,Florida,South,Home Office,Furniture,Bookcases,Product_23,1028.37,1174.02,-145.65,7,0.2,USD
+OD-10580,08-02-2022,13-02-2022,2022,February,Arizona,Central,Consumer,Technology,Laptops,Product_23,206.12,213.08,-6.96,12,0.2,USD
+OD-10581,22-03-2022,27-03-2022,2022,March,Texas,West,Corporate,Office Supplies,Binders,Product_22,1285.69,1281.5,4.19,13,0.2,USD
+OD-10582,18-12-2022,23-12-2022,2022,December,Arizona,South,Home Office,Furniture,Tables,Product_19,1480.94,1347.44,133.5,7,0.2,USD
+OD-10583,28-03-2024,31-03-2024,2024,March,Illinois,East,Home Office,Technology,Phones,Product_24,1580.79,1253.05,327.74,5,0.0,USD
+OD-10584,16-08-2023,18-08-2023,2023,August,California,Central,Home Office,Office Supplies,Binders,Product_10,995.28,733.66,261.62,3,0.0,USD
+OD-10585,12-10-2022,15-10-2022,2022,October,Illinois,Central,Corporate,Furniture,Bookcases,Product_1,1495.79,1230.24,265.55,10,0.1,USD
+OD-10586,27-01-2024,29-01-2024,2024,January,Illinois,Central,Consumer,Office Supplies,Paper,Product_26,1416.51,1204.26,212.25,8,0.1,USD
+OD-10587,01-06-2024,02-06-2024,2024,June,New York,West,Home Office,Technology,Phones,Product_27,1017.1,1210.87,-193.77,7,0.3,USD
+OD-10588,27-03-2023,02-04-2023,2023,March,Washington,West,Home Office,Office Supplies,Binders,Product_2,1302.41,1220.19,82.22,13,0.0,USD
+OD-10589,21-04-2023,25-04-2023,2023,April,Florida,South,Home Office,Technology,Accessories,Product_13,1382.84,1637.76,-254.92,7,0.3,USD
+OD-10590,28-06-2023,05-07-2023,2023,June,Ohio,Central,Corporate,Technology,Phones,Product_22,665.59,616.11,49.48,9,0.0,USD
+OD-10591,29-06-2023,05-07-2023,2023,June,Illinois,Central,Corporate,Technology,Accessories,Product_9,1614.52,1832.03,-217.51,5,0.3,USD
+OD-10592,23-11-2023,29-11-2023,2023,November,Washington,West,Home Office,Furniture,Bookcases,Product_22,1396.04,1414.32,-18.28,3,0.2,USD
+OD-10593,20-11-2023,21-11-2023,2023,November,Texas,South,Consumer,Furniture,Chairs,Product_22,919.59,999.62,-80.03,4,0.2,USD
+OD-10594,04-02-2022,05-02-2022,2022,February,Florida,East,Home Office,Office Supplies,Binders,Product_20,1294.26,1201.6,92.66,12,0.0,USD
+OD-10595,12-09-2023,14-09-2023,2023,September,New York,West,Consumer,Technology,Laptops,Product_9,624.41,493.47,130.94,11,0.0,USD
+OD-10596,11-10-2022,18-10-2022,2022,October,New York,Central,Corporate,Technology,Laptops,Product_25,194.29,165.98,28.31,13,0.0,USD
+OD-10597,07-12-2022,08-12-2022,2022,December,Texas,West,Corporate,Technology,Accessories,Product_16,1959.87,2362.41,-402.54,4,0.3,USD
+OD-10598,19-05-2023,20-05-2023,2023,May,Texas,South,Consumer,Furniture,Bookcases,Product_30,911.08,857.59,53.49,5,0.0,USD
+OD-10599,14-03-2022,19-03-2022,2022,March,Arizona,South,Consumer,Office Supplies,Paper,Product_5,1323.09,1037.1,285.99,1,0.0,USD
+OD-10600,30-09-2022,02-10-2022,2022,September,California,South,Home Office,Office Supplies,Paper,Product_17,1429.83,1616.37,-186.54,13,0.3,USD
+OD-10601,18-02-2023,25-02-2023,2023,February,Ohio,West,Consumer,Office Supplies,Binders,Product_23,1645.05,1329.51,315.54,8,0.0,USD
+OD-10602,03-01-2023,06-01-2023,2023,January,Texas,South,Consumer,Office Supplies,Paper,Product_12,1092.52,808.14,284.38,6,0.0,USD
+OD-10603,18-02-2024,25-02-2024,2024,February,California,West,Consumer,Technology,Laptops,Product_13,1338.43,1373.08,-34.65,5,0.3,USD
+OD-10604,08-10-2023,14-10-2023,2023,October,Arizona,East,Home Office,Technology,Accessories,Product_24,419.46,437.77,-18.31,1,0.1,USD
+OD-10605,31-08-2023,02-09-2023,2023,August,Illinois,East,Home Office,Technology,Accessories,Product_16,1091.18,1100.3,-9.12,14,0.3,USD
+OD-10606,17-01-2022,18-01-2022,2022,January,California,Central,Home Office,Technology,Phones,Product_13,280.46,284.66,-4.2,13,0.3,USD
+OD-10607,10-06-2024,17-06-2024,2024,June,California,West,Consumer,Office Supplies,Binders,Product_24,326.1,271.38,54.72,11,0.0,USD
+OD-10608,26-09-2023,27-09-2023,2023,September,New York,West,Consumer,Furniture,Bookcases,Product_21,147.42,123.24,24.18,5,0.0,USD
+OD-10609,24-06-2022,01-07-2022,2022,June,Arizona,East,Consumer,Office Supplies,Binders,Product_20,1608.39,1204.5,403.89,4,0.0,USD
+OD-10610,13-03-2023,16-03-2023,2023,March,Texas,South,Corporate,Office Supplies,Art,Product_22,1173.14,1103.8,69.34,3,0.2,USD
+OD-10611,23-03-2024,25-03-2024,2024,March,Texas,West,Corporate,Furniture,Bookcases,Product_4,584.09,705.57,-121.48,13,0.3,USD
+OD-10612,14-01-2023,19-01-2023,2023,January,California,West,Home Office,Furniture,Tables,Product_5,244.94,258.55,-13.61,14,0.3,USD
+OD-10613,17-01-2022,21-01-2022,2022,January,Texas,East,Consumer,Furniture,Chairs,Product_23,1320.92,1381.61,-60.69,15,0.2,USD
+OD-10614,06-04-2024,13-04-2024,2024,April,New York,West,Consumer,Technology,Laptops,Product_21,578.35,688.34,-109.99,8,0.3,USD
+OD-10615,28-06-2022,03-07-2022,2022,June,Arizona,West,Home Office,Office Supplies,Binders,Product_20,1903.08,2023.04,-119.96,11,0.2,USD
+OD-10616,05-01-2022,10-01-2022,2022,January,Texas,East,Home Office,Furniture,Chairs,Product_20,755.71,705.79,49.92,13,0.1,USD
+OD-10617,04-10-2023,10-10-2023,2023,October,Texas,East,Consumer,Furniture,Tables,Product_26,340.97,383.8,-42.83,14,0.3,USD
+OD-10618,13-06-2022,19-06-2022,2022,June,Florida,Central,Corporate,Furniture,Chairs,Product_14,540.19,669.39,-129.2,10,0.3,USD
+OD-10619,29-01-2024,30-01-2024,2024,January,Arizona,West,Consumer,Office Supplies,Binders,Product_17,276.33,240.31,36.02,15,0.1,USD
+OD-10620,30-08-2023,04-09-2023,2023,August,Washington,West,Home Office,Technology,Accessories,Product_8,1569.0,1608.98,-39.98,6,0.1,USD
+OD-10621,26-01-2024,30-01-2024,2024,January,Arizona,West,Consumer,Furniture,Tables,Product_19,994.6,1207.21,-212.61,15,0.3,USD
+OD-10622,17-09-2023,21-09-2023,2023,September,Arizona,Central,Consumer,Furniture,Tables,Product_24,428.6,471.22,-42.62,6,0.2,USD
+OD-10623,11-05-2022,12-05-2022,2022,May,New York,East,Corporate,Office Supplies,Art,Product_4,1710.72,2065.18,-354.46,8,0.3,USD
+OD-10624,18-12-2022,20-12-2022,2022,December,New York,West,Home Office,Technology,Laptops,Product_19,1941.76,1996.87,-55.11,14,0.1,USD
+OD-10625,27-05-2024,01-06-2024,2024,May,Illinois,South,Corporate,Technology,Phones,Product_1,1473.53,1455.91,17.62,12,0.1,USD
+OD-10626,21-03-2023,26-03-2023,2023,March,California,West,Home Office,Furniture,Bookcases,Product_14,1961.36,2092.05,-130.69,1,0.3,USD
+OD-10627,01-06-2023,02-06-2023,2023,June,Texas,South,Corporate,Technology,Laptops,Product_15,1015.81,788.99,226.82,2,0.0,USD
+OD-10628,21-02-2023,23-02-2023,2023,February,Texas,Central,Consumer,Furniture,Tables,Product_1,985.58,861.57,124.01,5,0.1,USD
+OD-10629,28-05-2024,02-06-2024,2024,May,Arizona,East,Corporate,Office Supplies,Art,Product_25,320.32,385.59,-65.27,12,0.3,USD
+OD-10630,11-06-2024,14-06-2024,2024,June,Texas,East,Home Office,Office Supplies,Paper,Product_13,1792.2,1569.7,222.5,6,0.0,USD
+OD-10631,10-02-2024,13-02-2024,2024,February,Texas,West,Home Office,Office Supplies,Art,Product_20,1767.65,1451.8,315.85,12,0.0,USD
+OD-10632,22-11-2023,25-11-2023,2023,November,Arizona,South,Corporate,Furniture,Chairs,Product_20,129.7,115.17,14.53,6,0.1,USD
+OD-10633,23-12-2023,24-12-2023,2023,December,Washington,West,Consumer,Office Supplies,Art,Product_8,1102.29,1174.66,-72.37,11,0.3,USD
+OD-10634,10-02-2024,15-02-2024,2024,February,Washington,West,Corporate,Office Supplies,Binders,Product_29,571.35,674.6,-103.25,11,0.3,USD
+OD-10635,06-03-2022,09-03-2022,2022,March,Texas,South,Home Office,Technology,Accessories,Product_16,1434.16,1487.23,-53.07,11,0.2,USD
+OD-10636,12-01-2023,19-01-2023,2023,January,Arizona,East,Consumer,Office Supplies,Art,Product_3,206.33,201.77,4.56,15,0.1,USD
+OD-10637,20-03-2022,21-03-2022,2022,March,New York,East,Home Office,Furniture,Tables,Product_16,343.47,301.12,42.35,4,0.0,USD
+OD-10638,30-11-2023,05-12-2023,2023,November,Arizona,Central,Corporate,Furniture,Tables,Product_24,1307.13,1351.92,-44.79,5,0.1,USD
+OD-10639,11-06-2024,18-06-2024,2024,June,Washington,Central,Corporate,Furniture,Bookcases,Product_21,1309.8,1442.96,-133.16,6,0.3,USD
+OD-10640,15-12-2023,20-12-2023,2023,December,New York,South,Corporate,Office Supplies,Paper,Product_29,1589.23,1737.51,-148.28,3,0.2,USD
+OD-10641,16-01-2023,19-01-2023,2023,January,Arizona,Central,Corporate,Furniture,Chairs,Product_6,1256.33,1387.53,-131.2,3,0.2,USD
+OD-10642,29-06-2022,06-07-2022,2022,June,Florida,West,Consumer,Office Supplies,Art,Product_4,130.25,122.41,7.84,6,0.1,USD
+OD-10643,14-01-2023,16-01-2023,2023,January,Washington,East,Home Office,Furniture,Bookcases,Product_12,338.49,310.26,28.23,8,0.1,USD
+OD-10644,05-05-2022,06-05-2022,2022,May,Washington,West,Corporate,Technology,Accessories,Product_5,58.37,57.68,0.69,12,0.2,USD
+OD-10645,30-10-2022,03-11-2022,2022,October,Arizona,West,Home Office,Technology,Laptops,Product_11,1393.84,1428.63,-34.79,12,0.3,USD
+OD-10646,23-05-2022,29-05-2022,2022,May,Ohio,Central,Consumer,Office Supplies,Binders,Product_20,1689.71,1904.1,-214.39,8,0.2,USD
+OD-10647,26-02-2022,03-03-2022,2022,February,Florida,West,Corporate,Office Supplies,Binders,Product_1,213.0,230.2,-17.2,14,0.3,USD
+OD-10648,31-03-2022,05-04-2022,2022,March,California,South,Corporate,Technology,Phones,Product_30,1350.19,1176.03,174.16,7,0.1,USD
+OD-10649,14-03-2023,17-03-2023,2023,March,Washington,East,Corporate,Technology,Accessories,Product_12,650.77,583.14,67.63,8,0.0,USD
+OD-10650,31-03-2023,06-04-2023,2023,March,Ohio,Central,Consumer,Technology,Accessories,Product_24,1798.04,1643.57,154.47,3,0.0,USD
+OD-10651,07-11-2022,11-11-2022,2022,November,Ohio,East,Home Office,Office Supplies,Paper,Product_3,62.91,65.83,-2.92,11,0.2,USD
+OD-10652,24-07-2023,28-07-2023,2023,July,New York,West,Consumer,Office Supplies,Art,Product_27,794.45,984.67,-190.22,9,0.3,USD
+OD-10653,26-04-2024,29-04-2024,2024,April,Arizona,South,Home Office,Office Supplies,Paper,Product_8,102.34,100.74,1.6,1,0.1,USD
+OD-10654,18-10-2023,25-10-2023,2023,October,Illinois,East,Home Office,Office Supplies,Paper,Product_14,399.78,416.93,-17.15,15,0.1,USD
+OD-10655,23-02-2024,26-02-2024,2024,February,Arizona,Central,Home Office,Technology,Phones,Product_19,900.33,906.12,-5.79,5,0.3,USD
+OD-10656,17-04-2024,18-04-2024,2024,April,New York,East,Corporate,Technology,Laptops,Product_19,164.1,169.09,-4.99,6,0.3,USD
+OD-10657,19-05-2022,22-05-2022,2022,May,Ohio,Central,Corporate,Furniture,Chairs,Product_21,1828.6,1604.66,223.94,6,0.0,USD
+OD-10658,27-06-2023,03-07-2023,2023,June,New York,West,Home Office,Furniture,Bookcases,Product_25,234.29,214.16,20.13,13,0.1,USD
+OD-10659,12-06-2024,15-06-2024,2024,June,Washington,Central,Home Office,Office Supplies,Paper,Product_4,1092.12,1143.2,-51.08,6,0.1,USD
+OD-10660,15-06-2023,18-06-2023,2023,June,New York,South,Corporate,Technology,Accessories,Product_4,474.86,399.88,74.98,9,0.1,USD
+OD-10661,25-03-2024,30-03-2024,2024,March,Arizona,East,Corporate,Office Supplies,Art,Product_30,198.98,162.99,35.99,14,0.1,USD
+OD-10662,07-05-2023,10-05-2023,2023,May,Arizona,Central,Consumer,Technology,Laptops,Product_29,1975.78,2187.09,-211.31,9,0.2,USD
+OD-10663,08-11-2022,09-11-2022,2022,November,New York,West,Consumer,Office Supplies,Binders,Product_23,491.82,500.4,-8.58,3,0.1,USD
+OD-10664,22-03-2022,26-03-2022,2022,March,Arizona,East,Consumer,Office Supplies,Binders,Product_25,890.93,839.08,51.85,4,0.0,USD
+OD-10665,07-11-2023,12-11-2023,2023,November,Illinois,South,Consumer,Office Supplies,Binders,Product_2,179.18,136.42,42.76,11,0.0,USD
+OD-10666,12-03-2024,13-03-2024,2024,March,Washington,West,Consumer,Office Supplies,Binders,Product_1,227.02,207.22,19.8,14,0.2,USD
+OD-10667,23-12-2022,26-12-2022,2022,December,Texas,West,Home Office,Furniture,Bookcases,Product_4,1648.19,1347.87,300.32,13,0.0,USD
+OD-10668,03-01-2024,05-01-2024,2024,January,Texas,East,Home Office,Technology,Phones,Product_30,467.33,541.35,-74.02,9,0.3,USD
+OD-10669,27-08-2023,29-08-2023,2023,August,Washington,East,Consumer,Technology,Laptops,Product_13,876.98,831.47,45.51,9,0.1,USD
+OD-10670,19-02-2024,22-02-2024,2024,February,New York,East,Home Office,Furniture,Tables,Product_16,1536.43,1552.9,-16.47,12,0.2,USD
+OD-10671,11-02-2022,12-02-2022,2022,February,Illinois,East,Corporate,Technology,Accessories,Product_15,1220.76,1457.02,-236.26,5,0.3,USD
+OD-10672,22-02-2023,25-02-2023,2023,February,Washington,East,Corporate,Technology,Phones,Product_6,74.93,81.07,-6.14,11,0.3,USD
+OD-10673,10-02-2023,14-02-2023,2023,February,New York,East,Consumer,Office Supplies,Art,Product_13,831.22,635.59,195.63,10,0.0,USD
+OD-10674,22-06-2022,23-06-2022,2022,June,Ohio,Central,Consumer,Technology,Phones,Product_4,504.1,595.02,-90.92,7,0.3,USD
+OD-10675,01-01-2024,08-01-2024,2024,January,Ohio,Central,Home Office,Office Supplies,Art,Product_12,977.86,980.91,-3.05,10,0.3,USD
+OD-10676,08-06-2023,11-06-2023,2023,June,Illinois,East,Consumer,Furniture,Tables,Product_16,1019.68,1063.09,-43.41,11,0.1,USD
+OD-10677,26-01-2024,27-01-2024,2024,January,Ohio,East,Consumer,Furniture,Tables,Product_20,1374.45,1366.9,7.55,3,0.2,USD
+OD-10678,09-04-2022,16-04-2022,2022,April,Florida,South,Corporate,Furniture,Bookcases,Product_10,1341.08,1360.38,-19.3,8,0.2,USD
+OD-10679,08-04-2024,15-04-2024,2024,April,Ohio,East,Consumer,Office Supplies,Art,Product_29,1834.13,2148.43,-314.3,7,0.3,USD
+OD-10680,21-01-2023,25-01-2023,2023,January,Illinois,East,Consumer,Technology,Phones,Product_29,1426.82,1735.55,-308.73,8,0.3,USD
+OD-10681,03-01-2024,07-01-2024,2024,January,Arizona,South,Home Office,Technology,Phones,Product_16,1146.4,976.91,169.49,3,0.0,USD
+OD-10682,22-05-2023,27-05-2023,2023,May,Washington,Central,Corporate,Technology,Laptops,Product_2,104.89,88.19,16.7,1,0.1,USD
+OD-10683,24-12-2022,31-12-2022,2022,December,Washington,East,Home Office,Office Supplies,Art,Product_13,239.83,251.11,-11.28,6,0.2,USD
+OD-10684,27-02-2022,05-03-2022,2022,February,Illinois,West,Home Office,Furniture,Chairs,Product_19,215.64,158.01,57.63,12,0.0,USD
+OD-10685,28-04-2022,01-05-2022,2022,April,Arizona,Central,Consumer,Furniture,Chairs,Product_22,1733.57,2051.41,-317.84,10,0.3,USD
+OD-10686,14-12-2023,18-12-2023,2023,December,Ohio,Central,Corporate,Office Supplies,Binders,Product_11,1166.45,1428.88,-262.43,13,0.3,USD
+OD-10687,23-11-2023,25-11-2023,2023,November,Illinois,Central,Consumer,Technology,Accessories,Product_12,1940.38,2117.22,-176.84,4,0.3,USD
+OD-10688,17-03-2024,18-03-2024,2024,March,California,Central,Corporate,Office Supplies,Binders,Product_10,1992.64,1781.14,211.5,7,0.1,USD
+OD-10689,05-04-2022,11-04-2022,2022,April,Texas,Central,Corporate,Office Supplies,Binders,Product_19,1612.31,1930.85,-318.54,8,0.3,USD
+OD-10690,25-03-2024,26-03-2024,2024,March,Washington,Central,Corporate,Office Supplies,Paper,Product_7,857.91,928.35,-70.44,5,0.3,USD
+OD-10691,15-07-2023,17-07-2023,2023,July,Arizona,West,Home Office,Furniture,Bookcases,Product_7,1338.57,1583.55,-244.98,14,0.3,USD
+OD-10692,16-10-2023,21-10-2023,2023,October,Florida,East,Home Office,Office Supplies,Paper,Product_12,951.85,821.82,130.03,4,0.1,USD
+OD-10693,23-02-2024,26-02-2024,2024,February,Florida,Central,Consumer,Technology,Accessories,Product_28,854.25,844.42,9.83,14,0.2,USD
+OD-10694,20-09-2022,26-09-2022,2022,September,Texas,South,Consumer,Office Supplies,Binders,Product_5,424.24,438.65,-14.41,4,0.2,USD
+OD-10695,28-07-2023,01-08-2023,2023,July,New York,East,Consumer,Technology,Laptops,Product_9,316.04,311.4,4.64,5,0.2,USD
+OD-10696,30-06-2022,06-07-2022,2022,June,California,South,Consumer,Furniture,Bookcases,Product_28,1798.19,1678.08,120.11,6,0.2,USD
+OD-10697,21-02-2023,24-02-2023,2023,February,New York,East,Corporate,Office Supplies,Art,Product_8,268.27,219.85,48.42,12,0.0,USD
+OD-10698,28-04-2024,03-05-2024,2024,April,Florida,South,Consumer,Office Supplies,Paper,Product_20,288.44,307.96,-19.52,13,0.2,USD
+OD-10699,22-08-2023,28-08-2023,2023,August,Florida,West,Corporate,Technology,Laptops,Product_5,258.29,268.66,-10.37,4,0.2,USD
+OD-10700,18-09-2022,25-09-2022,2022,September,Washington,South,Home Office,Office Supplies,Binders,Product_23,1899.99,2149.43,-249.44,6,0.3,USD
+OD-10701,10-09-2022,13-09-2022,2022,September,Washington,South,Home Office,Furniture,Tables,Product_27,650.93,481.45,169.48,11,0.0,USD
+OD-10702,10-11-2023,17-11-2023,2023,November,Ohio,West,Corporate,Furniture,Bookcases,Product_10,1295.95,1197.73,98.22,12,0.2,USD
+OD-10703,03-12-2023,04-12-2023,2023,December,California,South,Corporate,Office Supplies,Binders,Product_30,1923.46,2067.29,-143.83,15,0.2,USD
+OD-10704,22-04-2024,29-04-2024,2024,April,Arizona,West,Consumer,Furniture,Tables,Product_21,668.51,703.72,-35.21,13,0.3,USD
+OD-10705,08-10-2022,15-10-2022,2022,October,Ohio,South,Home Office,Furniture,Tables,Product_30,1690.27,1742.35,-52.08,12,0.3,USD
+OD-10706,19-04-2024,20-04-2024,2024,April,Texas,Central,Home Office,Furniture,Bookcases,Product_12,870.7,902.64,-31.94,12,0.2,USD
+OD-10707,29-01-2022,05-02-2022,2022,January,Arizona,West,Home Office,Furniture,Bookcases,Product_26,1300.14,1560.14,-260.0,1,0.3,USD
+OD-10708,09-11-2022,12-11-2022,2022,November,Florida,East,Consumer,Office Supplies,Binders,Product_17,1441.45,1208.31,233.14,13,0.1,USD
+OD-10709,04-12-2023,08-12-2023,2023,December,New York,South,Home Office,Technology,Accessories,Product_9,388.28,368.91,19.37,10,0.2,USD
+OD-10710,23-07-2022,24-07-2022,2022,July,Ohio,West,Corporate,Technology,Accessories,Product_27,1774.47,1265.15,509.32,4,0.0,USD
+OD-10711,26-07-2023,01-08-2023,2023,July,Arizona,West,Consumer,Office Supplies,Art,Product_7,560.48,581.53,-21.05,14,0.1,USD
+OD-10712,25-09-2023,29-09-2023,2023,September,Washington,West,Consumer,Office Supplies,Paper,Product_6,1897.12,1461.45,435.67,2,0.0,USD
+OD-10713,22-03-2023,29-03-2023,2023,March,Florida,South,Consumer,Technology,Laptops,Product_23,446.13,480.93,-34.8,14,0.2,USD
+OD-10714,22-05-2023,26-05-2023,2023,May,Florida,West,Home Office,Furniture,Tables,Product_27,601.79,568.94,32.85,11,0.1,USD
+OD-10715,23-02-2023,02-03-2023,2023,February,Florida,Central,Corporate,Furniture,Chairs,Product_20,929.4,933.37,-3.97,4,0.2,USD
+OD-10716,25-10-2023,29-10-2023,2023,October,Washington,South,Consumer,Furniture,Chairs,Product_23,825.23,885.38,-60.15,4,0.3,USD
+OD-10717,24-01-2024,29-01-2024,2024,January,California,East,Home Office,Technology,Phones,Product_2,699.08,715.12,-16.04,4,0.3,USD
+OD-10718,13-09-2023,19-09-2023,2023,September,Illinois,East,Consumer,Office Supplies,Art,Product_17,1258.33,1361.75,-103.42,5,0.3,USD
+OD-10719,16-05-2022,21-05-2022,2022,May,New York,West,Corporate,Furniture,Bookcases,Product_17,1011.04,1230.46,-219.42,6,0.3,USD
+OD-10720,21-11-2022,27-11-2022,2022,November,Texas,West,Corporate,Office Supplies,Paper,Product_11,136.12,140.49,-4.37,3,0.3,USD
+OD-10721,04-05-2024,07-05-2024,2024,May,Illinois,South,Corporate,Office Supplies,Paper,Product_20,1667.7,1702.32,-34.62,15,0.2,USD
+OD-10722,23-03-2023,25-03-2023,2023,March,Arizona,South,Consumer,Technology,Laptops,Product_2,418.39,420.15,-1.76,1,0.1,USD
+OD-10723,27-04-2023,30-04-2023,2023,April,Texas,South,Corporate,Furniture,Bookcases,Product_29,1858.05,2156.95,-298.9,1,0.3,USD
+OD-10724,28-12-2023,02-01-2024,2023,December,New York,South,Consumer,Technology,Accessories,Product_4,731.73,808.44,-76.71,4,0.2,USD
+OD-10725,22-06-2022,28-06-2022,2022,June,California,West,Home Office,Office Supplies,Paper,Product_17,1545.35,1576.1,-30.75,3,0.3,USD
+OD-10726,10-09-2022,17-09-2022,2022,September,California,East,Corporate,Technology,Laptops,Product_10,1378.56,1173.79,204.77,11,0.0,USD
+OD-10727,28-08-2023,29-08-2023,2023,August,Arizona,East,Consumer,Technology,Phones,Product_27,1430.03,1562.9,-132.87,8,0.3,USD
+OD-10728,03-10-2022,08-10-2022,2022,October,Arizona,Central,Consumer,Office Supplies,Binders,Product_11,1897.47,1892.08,5.39,12,0.1,USD
+OD-10729,19-02-2022,26-02-2022,2022,February,Texas,Central,Consumer,Office Supplies,Paper,Product_18,1906.21,1620.82,285.39,7,0.0,USD
+OD-10730,02-07-2022,04-07-2022,2022,July,New York,East,Consumer,Technology,Phones,Product_13,1570.01,1601.17,-31.16,5,0.1,USD
+OD-10731,18-05-2023,25-05-2023,2023,May,New York,Central,Home Office,Technology,Laptops,Product_12,1347.76,1377.19,-29.43,14,0.2,USD
+OD-10732,17-05-2023,21-05-2023,2023,May,Ohio,Central,Home Office,Technology,Accessories,Product_3,1525.16,1519.87,5.29,13,0.2,USD
+OD-10733,21-03-2023,27-03-2023,2023,March,Washington,East,Home Office,Technology,Phones,Product_15,1369.06,1118.98,250.08,11,0.1,USD
+OD-10734,24-06-2023,30-06-2023,2023,June,Arizona,East,Corporate,Office Supplies,Art,Product_14,204.41,240.16,-35.75,13,0.3,USD
+OD-10735,11-05-2022,17-05-2022,2022,May,California,South,Corporate,Technology,Phones,Product_18,199.24,163.84,35.4,1,0.0,USD
+OD-10736,27-02-2023,28-02-2023,2023,February,Illinois,Central,Corporate,Technology,Laptops,Product_19,209.45,193.01,16.44,9,0.0,USD
+OD-10737,09-11-2023,13-11-2023,2023,November,Texas,South,Consumer,Furniture,Chairs,Product_14,1759.67,1765.3,-5.63,5,0.2,USD
+OD-10738,11-04-2023,18-04-2023,2023,April,New York,Central,Corporate,Office Supplies,Paper,Product_7,410.92,383.02,27.9,12,0.2,USD
+OD-10739,19-04-2022,23-04-2022,2022,April,Texas,East,Corporate,Office Supplies,Binders,Product_1,384.88,414.53,-29.65,8,0.3,USD
+OD-10740,08-06-2024,14-06-2024,2024,June,Washington,South,Corporate,Office Supplies,Art,Product_23,1363.92,1430.53,-66.61,12,0.3,USD
+OD-10741,31-03-2022,02-04-2022,2022,March,California,West,Consumer,Furniture,Chairs,Product_23,1942.51,1743.78,198.73,14,0.0,USD
+OD-10742,27-10-2023,29-10-2023,2023,October,Florida,South,Home Office,Office Supplies,Binders,Product_3,636.79,593.17,43.62,8,0.1,USD
+OD-10743,23-01-2022,24-01-2022,2022,January,Arizona,South,Corporate,Furniture,Chairs,Product_1,1726.6,1726.02,0.58,10,0.1,USD
+OD-10744,07-08-2023,14-08-2023,2023,August,Texas,Central,Consumer,Technology,Phones,Product_21,1702.88,1767.33,-64.45,7,0.3,USD
+OD-10745,25-01-2024,30-01-2024,2024,January,Arizona,Central,Consumer,Office Supplies,Art,Product_13,997.9,1189.52,-191.62,10,0.3,USD
+OD-10746,04-03-2022,09-03-2022,2022,March,Texas,Central,Home Office,Furniture,Tables,Product_9,1791.11,2186.52,-395.41,7,0.3,USD
+OD-10747,30-09-2023,06-10-2023,2023,September,New York,South,Consumer,Technology,Accessories,Product_10,1466.11,1525.45,-59.34,8,0.2,USD
+OD-10748,04-06-2023,06-06-2023,2023,June,Arizona,Central,Home Office,Office Supplies,Art,Product_5,1772.19,1790.0,-17.81,12,0.3,USD
+OD-10749,03-05-2024,09-05-2024,2024,May,New York,Central,Corporate,Office Supplies,Art,Product_20,454.06,355.64,98.42,12,0.0,USD
+OD-10750,13-05-2022,15-05-2022,2022,May,Ohio,South,Consumer,Furniture,Chairs,Product_16,642.12,449.6,192.52,4,0.0,USD
+OD-10751,03-01-2023,06-01-2023,2023,January,California,West,Consumer,Technology,Laptops,Product_26,174.15,138.56,35.59,7,0.0,USD
+OD-10752,04-05-2022,09-05-2022,2022,May,Washington,Central,Corporate,Furniture,Tables,Product_25,141.02,130.57,10.45,15,0.2,USD
+OD-10753,23-05-2024,29-05-2024,2024,May,California,East,Home Office,Office Supplies,Art,Product_30,1895.22,1912.92,-17.7,13,0.3,USD
+OD-10754,13-02-2024,14-02-2024,2024,February,California,East,Home Office,Furniture,Bookcases,Product_17,255.55,187.13,68.42,11,0.0,USD
+OD-10755,06-01-2023,08-01-2023,2023,January,Arizona,South,Home Office,Office Supplies,Paper,Product_24,1747.46,1863.4,-115.94,3,0.2,USD
+OD-10756,22-05-2022,23-05-2022,2022,May,Florida,South,Consumer,Furniture,Tables,Product_27,1627.83,1666.48,-38.65,6,0.2,USD
+OD-10757,29-03-2022,01-04-2022,2022,March,Florida,South,Corporate,Technology,Laptops,Product_5,1518.75,1599.54,-80.79,9,0.3,USD
+OD-10758,22-05-2022,29-05-2022,2022,May,Washington,South,Corporate,Technology,Accessories,Product_1,913.03,703.58,209.45,13,0.0,USD
+OD-10759,14-06-2023,15-06-2023,2023,June,New York,Central,Corporate,Furniture,Tables,Product_14,169.86,133.33,36.53,13,0.0,USD
+OD-10760,19-10-2023,21-10-2023,2023,October,Ohio,Central,Corporate,Office Supplies,Binders,Product_29,1377.7,1335.83,41.87,9,0.2,USD
+OD-10761,18-11-2022,21-11-2022,2022,November,Ohio,West,Home Office,Furniture,Tables,Product_15,1305.56,1404.3,-98.74,15,0.3,USD
+OD-10762,11-04-2024,18-04-2024,2024,April,Texas,West,Corporate,Office Supplies,Paper,Product_2,1098.0,1010.03,87.97,7,0.1,USD
+OD-10763,08-07-2023,11-07-2023,2023,July,Washington,Central,Home Office,Furniture,Chairs,Product_25,1289.59,938.07,351.52,1,0.0,USD
+OD-10764,07-07-2023,12-07-2023,2023,July,Ohio,Central,Home Office,Technology,Phones,Product_17,265.36,287.93,-22.57,1,0.2,USD
+OD-10765,04-06-2023,07-06-2023,2023,June,Illinois,East,Corporate,Furniture,Chairs,Product_19,1486.87,1344.52,142.35,8,0.2,USD
+OD-10766,04-04-2024,10-04-2024,2024,April,Illinois,West,Corporate,Office Supplies,Art,Product_10,1350.5,1176.84,173.66,14,0.1,USD
+OD-10767,17-06-2023,23-06-2023,2023,June,Florida,Central,Home Office,Furniture,Chairs,Product_27,1568.17,1432.31,135.86,8,0.0,USD
+OD-10768,12-03-2023,19-03-2023,2023,March,Ohio,East,Consumer,Technology,Phones,Product_29,303.62,373.6,-69.98,4,0.3,USD
+OD-10769,25-11-2023,30-11-2023,2023,November,Arizona,South,Corporate,Technology,Laptops,Product_21,875.67,934.4,-58.73,8,0.3,USD
+OD-10770,03-03-2023,10-03-2023,2023,March,Arizona,West,Corporate,Furniture,Chairs,Product_5,1937.66,1504.36,433.3,9,0.0,USD
+OD-10771,12-04-2023,16-04-2023,2023,April,Washington,West,Home Office,Furniture,Bookcases,Product_30,1906.05,2329.99,-423.94,10,0.3,USD
+OD-10772,14-01-2023,19-01-2023,2023,January,Washington,West,Consumer,Technology,Phones,Product_10,1982.49,2039.03,-56.54,5,0.2,USD
+OD-10773,21-03-2024,23-03-2024,2024,March,Illinois,South,Consumer,Furniture,Bookcases,Product_29,602.79,753.17,-150.38,3,0.3,USD
+OD-10774,15-07-2023,18-07-2023,2023,July,Illinois,South,Corporate,Furniture,Chairs,Product_19,932.13,1054.42,-122.29,6,0.3,USD
+OD-10775,08-01-2024,15-01-2024,2024,January,Arizona,West,Home Office,Office Supplies,Binders,Product_25,927.36,772.87,154.49,8,0.1,USD
+OD-10776,30-11-2022,01-12-2022,2022,November,Florida,South,Corporate,Office Supplies,Art,Product_29,821.02,583.32,237.7,9,0.0,USD
+OD-10777,30-03-2023,05-04-2023,2023,March,California,East,Consumer,Technology,Laptops,Product_19,1278.71,1291.16,-12.45,13,0.2,USD
+OD-10778,07-05-2022,13-05-2022,2022,May,California,West,Home Office,Office Supplies,Binders,Product_19,1067.42,1200.14,-132.72,13,0.3,USD
+OD-10779,20-01-2022,21-01-2022,2022,January,Illinois,West,Consumer,Office Supplies,Art,Product_26,451.32,554.6,-103.28,14,0.3,USD
+OD-10780,01-07-2023,06-07-2023,2023,July,California,East,Corporate,Technology,Accessories,Product_11,902.18,663.18,239.0,7,0.0,USD
+OD-10781,21-11-2022,25-11-2022,2022,November,New York,East,Consumer,Technology,Phones,Product_10,330.87,301.57,29.3,5,0.0,USD
+OD-10782,22-02-2023,28-02-2023,2023,February,California,Central,Consumer,Furniture,Chairs,Product_23,164.08,142.75,21.33,7,0.0,USD
+OD-10783,27-02-2023,02-03-2023,2023,February,Florida,East,Consumer,Technology,Accessories,Product_8,1516.66,1405.57,111.09,10,0.1,USD
+OD-10784,10-02-2024,15-02-2024,2024,February,Washington,Central,Consumer,Technology,Phones,Product_15,1128.59,1402.58,-273.99,2,0.3,USD
+OD-10785,11-10-2023,13-10-2023,2023,October,New York,East,Consumer,Furniture,Tables,Product_10,1158.08,855.16,302.92,8,0.0,USD
+OD-10786,28-05-2023,30-05-2023,2023,May,Ohio,West,Consumer,Furniture,Tables,Product_30,1132.55,845.83,286.72,1,0.0,USD
+OD-10787,29-04-2024,04-05-2024,2024,April,California,West,Consumer,Technology,Laptops,Product_30,1847.53,1736.91,110.62,5,0.2,USD
+OD-10788,25-01-2023,28-01-2023,2023,January,New York,Central,Consumer,Office Supplies,Binders,Product_24,1091.47,1230.71,-139.24,2,0.2,USD
+OD-10789,17-12-2023,18-12-2023,2023,December,Florida,Central,Corporate,Furniture,Bookcases,Product_20,1034.4,960.98,73.42,13,0.2,USD
+OD-10790,17-12-2022,23-12-2022,2022,December,Florida,South,Corporate,Technology,Laptops,Product_22,1966.89,1839.14,127.75,6,0.1,USD
+OD-10791,06-09-2023,09-09-2023,2023,September,California,West,Home Office,Furniture,Bookcases,Product_20,979.23,765.58,213.65,15,0.0,USD
+OD-10792,28-02-2023,05-03-2023,2023,February,Texas,South,Corporate,Office Supplies,Art,Product_26,1759.6,1434.67,324.93,11,0.0,USD
+OD-10793,02-05-2024,09-05-2024,2024,May,Ohio,East,Corporate,Office Supplies,Paper,Product_27,1222.56,1027.21,195.35,7,0.1,USD
+OD-10794,11-04-2024,17-04-2024,2024,April,Florida,South,Corporate,Furniture,Chairs,Product_15,68.26,51.9,16.36,12,0.0,USD
+OD-10795,28-11-2023,04-12-2023,2023,November,Illinois,East,Home Office,Technology,Phones,Product_26,1449.73,1461.58,-11.85,4,0.3,USD
+OD-10796,07-02-2022,10-02-2022,2022,February,Florida,West,Consumer,Technology,Laptops,Product_27,1294.95,1304.95,-10.0,2,0.2,USD
+OD-10797,21-05-2023,23-05-2023,2023,May,New York,West,Consumer,Office Supplies,Binders,Product_24,176.85,146.74,30.11,5,0.1,USD
+OD-10798,17-01-2024,24-01-2024,2024,January,Illinois,East,Home Office,Technology,Phones,Product_22,1142.23,817.3,324.93,8,0.0,USD
+OD-10799,19-10-2023,25-10-2023,2023,October,Ohio,Central,Corporate,Office Supplies,Binders,Product_9,287.35,323.59,-36.24,9,0.3,USD
+OD-10800,14-06-2023,21-06-2023,2023,June,Illinois,West,Consumer,Furniture,Bookcases,Product_30,869.12,998.37,-129.25,8,0.2,USD
+OD-10801,19-07-2022,22-07-2022,2022,July,Florida,East,Home Office,Furniture,Bookcases,Product_23,876.45,877.13,-0.68,2,0.1,USD
+OD-10802,04-12-2022,07-12-2022,2022,December,Arizona,East,Consumer,Furniture,Bookcases,Product_14,1625.72,1527.97,97.75,10,0.2,USD
+OD-10803,11-09-2022,12-09-2022,2022,September,Washington,Central,Consumer,Technology,Phones,Product_17,1598.52,1692.79,-94.27,2,0.3,USD
+OD-10804,03-10-2023,07-10-2023,2023,October,California,East,Consumer,Office Supplies,Binders,Product_13,660.89,498.53,162.36,14,0.0,USD
+OD-10805,05-03-2022,12-03-2022,2022,March,Ohio,Central,Home Office,Technology,Phones,Product_3,248.56,217.81,30.75,1,0.0,USD
+OD-10806,26-01-2023,30-01-2023,2023,January,California,South,Consumer,Furniture,Bookcases,Product_15,798.64,822.61,-23.97,13,0.3,USD
+OD-10807,27-09-2023,28-09-2023,2023,September,Washington,East,Corporate,Technology,Laptops,Product_19,425.34,340.79,84.55,2,0.0,USD
+OD-10808,11-03-2022,16-03-2022,2022,March,Illinois,West,Home Office,Furniture,Bookcases,Product_12,870.96,1048.22,-177.26,12,0.3,USD
+OD-10809,21-05-2022,28-05-2022,2022,May,Ohio,West,Corporate,Furniture,Chairs,Product_17,1921.5,2060.24,-138.74,13,0.2,USD
+OD-10810,09-07-2023,16-07-2023,2023,July,Washington,South,Corporate,Furniture,Chairs,Product_10,769.22,796.66,-27.44,1,0.1,USD
+OD-10811,04-06-2023,11-06-2023,2023,June,Florida,South,Corporate,Office Supplies,Binders,Product_7,1299.08,1123.2,175.88,4,0.0,USD
+OD-10812,15-11-2023,19-11-2023,2023,November,Washington,South,Home Office,Office Supplies,Art,Product_28,1177.9,1231.29,-53.39,6,0.2,USD
+OD-10813,16-06-2022,17-06-2022,2022,June,California,South,Consumer,Technology,Phones,Product_21,484.9,530.49,-45.59,4,0.3,USD
+OD-10814,02-09-2022,06-09-2022,2022,September,Ohio,South,Consumer,Office Supplies,Paper,Product_6,1660.86,1905.88,-245.02,1,0.2,USD
+OD-10815,02-01-2023,03-01-2023,2023,January,Arizona,West,Corporate,Office Supplies,Binders,Product_7,1281.1,1459.2,-178.1,15,0.2,USD
+OD-10816,31-01-2022,02-02-2022,2022,January,Illinois,West,Consumer,Furniture,Tables,Product_24,389.85,391.94,-2.09,14,0.1,USD
+OD-10817,23-01-2022,25-01-2022,2022,January,New York,East,Home Office,Technology,Phones,Product_13,1326.99,1148.38,178.61,15,0.0,USD
+OD-10818,04-08-2022,07-08-2022,2022,August,New York,Central,Corporate,Technology,Phones,Product_17,1955.35,2014.8,-59.45,10,0.3,USD
+OD-10819,08-03-2022,09-03-2022,2022,March,Ohio,West,Consumer,Furniture,Chairs,Product_23,779.8,784.29,-4.49,10,0.3,USD
+OD-10820,08-09-2022,09-09-2022,2022,September,Illinois,West,Home Office,Office Supplies,Art,Product_26,339.71,269.27,70.44,4,0.0,USD
+OD-10821,14-10-2022,21-10-2022,2022,October,Texas,South,Consumer,Furniture,Bookcases,Product_26,967.8,878.9,88.9,11,0.0,USD
+OD-10822,02-02-2023,09-02-2023,2023,February,Arizona,Central,Corporate,Office Supplies,Art,Product_6,677.56,725.73,-48.17,6,0.3,USD
+OD-10823,22-05-2023,26-05-2023,2023,May,California,South,Home Office,Technology,Laptops,Product_7,478.08,494.43,-16.35,4,0.3,USD
+OD-10824,10-02-2023,12-02-2023,2023,February,New York,South,Home Office,Technology,Accessories,Product_30,1692.74,1551.26,141.48,5,0.0,USD
+OD-10825,28-03-2022,31-03-2022,2022,March,California,Central,Consumer,Technology,Laptops,Product_15,1048.91,1192.83,-143.92,6,0.3,USD
+OD-10826,19-03-2023,23-03-2023,2023,March,Ohio,Central,Corporate,Technology,Accessories,Product_1,400.15,395.61,4.54,4,0.2,USD
+OD-10827,03-01-2023,04-01-2023,2023,January,Florida,East,Corporate,Technology,Laptops,Product_4,281.25,228.8,52.45,6,0.0,USD
+OD-10828,08-12-2022,10-12-2022,2022,December,Illinois,Central,Corporate,Office Supplies,Paper,Product_7,1426.0,1636.86,-210.86,3,0.2,USD
+OD-10829,03-11-2022,06-11-2022,2022,November,California,South,Home Office,Technology,Accessories,Product_16,1325.48,1104.96,220.52,13,0.1,USD
+OD-10830,22-08-2022,24-08-2022,2022,August,Florida,West,Corporate,Office Supplies,Art,Product_17,1194.66,1277.54,-82.88,9,0.3,USD
+OD-10831,18-04-2023,21-04-2023,2023,April,Ohio,West,Corporate,Furniture,Tables,Product_7,905.43,775.34,130.09,14,0.0,USD
+OD-10832,15-08-2023,22-08-2023,2023,August,Washington,East,Corporate,Furniture,Tables,Product_11,489.71,518.74,-29.03,7,0.3,USD
+OD-10833,09-12-2023,14-12-2023,2023,December,California,East,Home Office,Technology,Accessories,Product_30,321.31,322.9,-1.59,6,0.3,USD
+OD-10834,29-07-2022,02-08-2022,2022,July,Arizona,South,Consumer,Furniture,Bookcases,Product_4,691.24,778.81,-87.57,8,0.2,USD
+OD-10835,17-04-2022,23-04-2022,2022,April,Arizona,East,Home Office,Office Supplies,Binders,Product_1,414.05,488.18,-74.13,2,0.3,USD
+OD-10836,27-08-2022,30-08-2022,2022,August,California,East,Corporate,Office Supplies,Art,Product_12,1061.14,992.24,68.9,3,0.2,USD
+OD-10837,25-02-2023,01-03-2023,2023,February,Ohio,West,Home Office,Furniture,Chairs,Product_16,1499.13,1525.39,-26.26,7,0.1,USD
+OD-10838,30-07-2022,02-08-2022,2022,July,Illinois,South,Consumer,Technology,Laptops,Product_19,445.8,526.55,-80.75,12,0.3,USD
+OD-10839,08-01-2022,10-01-2022,2022,January,Florida,South,Home Office,Technology,Phones,Product_17,691.34,784.64,-93.3,10,0.3,USD
+OD-10840,13-08-2023,14-08-2023,2023,August,Arizona,Central,Home Office,Office Supplies,Binders,Product_12,1415.62,1489.55,-73.93,12,0.2,USD
+OD-10841,23-04-2024,30-04-2024,2024,April,Ohio,West,Consumer,Furniture,Tables,Product_15,800.1,700.38,99.72,11,0.1,USD
+OD-10842,08-04-2022,12-04-2022,2022,April,Illinois,West,Consumer,Office Supplies,Binders,Product_29,1274.76,988.56,286.2,5,0.0,USD
+OD-10843,10-01-2024,12-01-2024,2024,January,Texas,East,Corporate,Technology,Accessories,Product_25,255.19,267.31,-12.12,13,0.2,USD
+OD-10844,18-06-2022,21-06-2022,2022,June,California,East,Corporate,Furniture,Bookcases,Product_3,1295.79,1496.26,-200.47,11,0.3,USD
+OD-10845,03-02-2024,07-02-2024,2024,February,Illinois,East,Consumer,Furniture,Tables,Product_4,1432.74,1407.56,25.18,3,0.2,USD
+OD-10846,21-04-2023,25-04-2023,2023,April,Florida,East,Home Office,Technology,Phones,Product_23,1902.54,1987.95,-85.41,3,0.3,USD
+OD-10847,11-05-2024,13-05-2024,2024,May,Illinois,East,Consumer,Furniture,Chairs,Product_4,1092.57,1126.01,-33.44,7,0.1,USD
+OD-10848,21-02-2024,22-02-2024,2024,February,Washington,West,Corporate,Office Supplies,Paper,Product_6,472.51,443.92,28.59,1,0.1,USD
+OD-10849,18-02-2022,25-02-2022,2022,February,Illinois,East,Corporate,Office Supplies,Art,Product_15,152.21,115.21,37.0,1,0.0,USD
+OD-10850,25-02-2024,27-02-2024,2024,February,Texas,West,Consumer,Furniture,Tables,Product_1,872.28,824.19,48.09,1,0.2,USD
+OD-10851,28-11-2023,04-12-2023,2023,November,New York,East,Home Office,Furniture,Chairs,Product_24,375.74,280.34,95.4,7,0.0,USD
+OD-10852,27-11-2022,02-12-2022,2022,November,Ohio,West,Home Office,Office Supplies,Binders,Product_14,285.57,245.83,39.74,4,0.0,USD
+OD-10853,27-06-2022,28-06-2022,2022,June,Ohio,Central,Consumer,Technology,Laptops,Product_7,944.61,932.82,11.79,2,0.2,USD
+OD-10854,13-01-2023,14-01-2023,2023,January,Arizona,South,Corporate,Furniture,Chairs,Product_4,1439.44,1420.75,18.69,13,0.1,USD
+OD-10855,08-04-2022,13-04-2022,2022,April,New York,South,Home Office,Technology,Laptops,Product_11,391.9,354.86,37.04,13,0.2,USD
+OD-10856,14-11-2023,18-11-2023,2023,November,Arizona,East,Home Office,Furniture,Tables,Product_13,1046.5,967.12,79.38,12,0.1,USD
+OD-10857,23-12-2023,24-12-2023,2023,December,Florida,East,Corporate,Furniture,Chairs,Product_24,885.57,828.02,57.55,4,0.0,USD
+OD-10858,19-01-2023,23-01-2023,2023,January,Florida,West,Corporate,Technology,Phones,Product_21,123.92,132.0,-8.08,15,0.3,USD
+OD-10859,03-12-2022,05-12-2022,2022,December,Ohio,East,Home Office,Technology,Accessories,Product_21,1634.79,1459.45,175.34,13,0.0,USD
+OD-10860,21-01-2024,24-01-2024,2024,January,California,West,Home Office,Technology,Phones,Product_30,1839.47,1651.81,187.66,4,0.1,USD
+OD-10861,26-01-2023,31-01-2023,2023,January,California,South,Home Office,Technology,Phones,Product_3,1746.24,1810.8,-64.56,2,0.1,USD
+OD-10862,25-05-2022,27-05-2022,2022,May,Florida,West,Home Office,Furniture,Chairs,Product_8,1039.48,1218.41,-178.93,7,0.3,USD
+OD-10863,09-01-2024,11-01-2024,2024,January,Florida,West,Home Office,Furniture,Tables,Product_10,606.44,595.55,10.89,8,0.1,USD
+OD-10864,11-03-2024,15-03-2024,2024,March,New York,South,Corporate,Furniture,Tables,Product_16,910.68,965.25,-54.57,9,0.3,USD
+OD-10865,19-04-2024,26-04-2024,2024,April,Texas,South,Corporate,Technology,Phones,Product_25,1817.59,1657.25,160.34,5,0.1,USD
+OD-10866,29-06-2022,02-07-2022,2022,June,Illinois,Central,Corporate,Technology,Accessories,Product_13,1146.18,993.38,152.8,8,0.0,USD
+OD-10867,03-01-2024,07-01-2024,2024,January,California,West,Consumer,Furniture,Chairs,Product_28,1026.36,1054.21,-27.85,12,0.2,USD
+OD-10868,02-03-2023,06-03-2023,2023,March,Illinois,South,Corporate,Office Supplies,Paper,Product_21,1975.67,2032.47,-56.8,2,0.3,USD
+OD-10869,08-05-2022,12-05-2022,2022,May,Illinois,West,Corporate,Office Supplies,Binders,Product_25,1830.52,1871.89,-41.37,12,0.2,USD
+OD-10870,16-05-2023,22-05-2023,2023,May,Ohio,East,Home Office,Office Supplies,Paper,Product_30,876.88,816.0,60.88,4,0.1,USD
+OD-10871,12-04-2024,15-04-2024,2024,April,New York,East,Home Office,Office Supplies,Art,Product_9,1230.6,1213.9,16.7,11,0.1,USD
+OD-10872,09-09-2023,14-09-2023,2023,September,Texas,East,Consumer,Office Supplies,Binders,Product_21,1437.64,1543.28,-105.64,7,0.3,USD
+OD-10873,24-03-2022,29-03-2022,2022,March,Illinois,West,Corporate,Furniture,Tables,Product_23,639.33,705.49,-66.16,9,0.3,USD
+OD-10874,22-01-2024,26-01-2024,2024,January,Washington,East,Home Office,Office Supplies,Binders,Product_27,328.29,268.38,59.91,12,0.1,USD
+OD-10875,12-02-2023,18-02-2023,2023,February,California,West,Corporate,Technology,Phones,Product_4,186.19,208.3,-22.11,12,0.3,USD
+OD-10876,02-11-2023,05-11-2023,2023,November,Washington,West,Consumer,Office Supplies,Paper,Product_6,1422.89,1713.88,-290.99,4,0.3,USD
+OD-10877,23-04-2022,27-04-2022,2022,April,California,West,Consumer,Office Supplies,Binders,Product_24,406.32,400.29,6.03,13,0.1,USD
+OD-10878,11-06-2024,15-06-2024,2024,June,New York,East,Home Office,Technology,Laptops,Product_3,621.59,547.5,74.09,7,0.0,USD
+OD-10879,17-12-2022,18-12-2022,2022,December,Texas,South,Corporate,Office Supplies,Binders,Product_1,169.06,132.49,36.57,13,0.0,USD
+OD-10880,19-03-2024,20-03-2024,2024,March,Illinois,East,Corporate,Furniture,Chairs,Product_30,997.56,996.47,1.09,13,0.2,USD
+OD-10881,11-12-2022,14-12-2022,2022,December,Washington,Central,Consumer,Office Supplies,Paper,Product_22,827.02,584.02,243.0,10,0.0,USD
+OD-10882,13-06-2024,16-06-2024,2024,June,Ohio,South,Home Office,Furniture,Chairs,Product_24,1679.07,1752.24,-73.17,15,0.1,USD
+OD-10883,06-05-2022,13-05-2022,2022,May,Arizona,West,Corporate,Office Supplies,Paper,Product_20,1388.06,1556.39,-168.33,14,0.3,USD
+OD-10884,08-11-2023,10-11-2023,2023,November,Washington,Central,Consumer,Furniture,Bookcases,Product_28,139.22,136.51,2.71,13,0.2,USD
+OD-10885,28-08-2022,02-09-2022,2022,August,Ohio,East,Corporate,Technology,Accessories,Product_30,1885.88,1445.4,440.48,8,0.0,USD
+OD-10886,28-10-2022,02-11-2022,2022,October,California,West,Home Office,Furniture,Bookcases,Product_5,1020.95,961.64,59.31,2,0.2,USD
+OD-10887,16-07-2023,23-07-2023,2023,July,Arizona,South,Consumer,Technology,Phones,Product_22,1104.3,1112.46,-8.16,4,0.1,USD
+OD-10888,07-11-2023,13-11-2023,2023,November,California,South,Home Office,Furniture,Chairs,Product_6,1861.56,1970.32,-108.76,6,0.3,USD
+OD-10889,14-08-2022,20-08-2022,2022,August,Texas,South,Home Office,Technology,Laptops,Product_22,314.73,386.3,-71.57,9,0.3,USD
+OD-10890,10-12-2023,13-12-2023,2023,December,Washington,East,Home Office,Furniture,Bookcases,Product_13,1824.83,1982.71,-157.88,12,0.3,USD
+OD-10891,14-03-2024,19-03-2024,2024,March,Texas,West,Corporate,Technology,Phones,Product_10,220.98,213.21,7.77,2,0.2,USD
+OD-10892,12-07-2022,18-07-2022,2022,July,Washington,Central,Consumer,Furniture,Bookcases,Product_13,1174.99,1333.06,-158.07,1,0.2,USD
+OD-10893,03-07-2023,05-07-2023,2023,July,New York,Central,Corporate,Technology,Accessories,Product_17,1344.3,1375.69,-31.39,10,0.1,USD
+OD-10894,10-01-2022,15-01-2022,2022,January,Florida,West,Corporate,Technology,Accessories,Product_16,1375.96,1532.18,-156.22,3,0.2,USD
+OD-10895,13-11-2023,20-11-2023,2023,November,Texas,Central,Corporate,Office Supplies,Binders,Product_9,1993.85,2177.74,-183.89,12,0.3,USD
+OD-10896,09-08-2022,13-08-2022,2022,August,Washington,South,Consumer,Technology,Laptops,Product_5,1664.38,1456.16,208.22,4,0.1,USD
+OD-10897,23-02-2022,02-03-2022,2022,February,New York,South,Corporate,Furniture,Tables,Product_1,1118.49,1208.56,-90.07,6,0.3,USD
+OD-10898,23-12-2022,30-12-2022,2022,December,Illinois,East,Home Office,Technology,Accessories,Product_10,1407.93,1725.66,-317.73,4,0.3,USD
+OD-10899,28-11-2022,05-12-2022,2022,November,New York,Central,Corporate,Office Supplies,Binders,Product_19,318.24,374.64,-56.4,12,0.3,USD
+OD-10900,29-05-2022,31-05-2022,2022,May,California,West,Home Office,Furniture,Bookcases,Product_12,1465.62,1143.8,321.82,10,0.0,USD
+OD-10901,29-05-2024,31-05-2024,2024,May,Texas,West,Consumer,Technology,Accessories,Product_12,1949.61,1794.93,154.68,3,0.0,USD
+OD-10902,12-06-2023,18-06-2023,2023,June,Ohio,South,Consumer,Technology,Laptops,Product_8,116.29,131.16,-14.87,4,0.3,USD
+OD-10903,06-12-2023,11-12-2023,2023,December,Texas,South,Home Office,Furniture,Bookcases,Product_25,954.16,1127.05,-172.89,14,0.3,USD
+OD-10904,31-10-2023,04-11-2023,2023,October,Texas,East,Consumer,Technology,Phones,Product_4,1003.98,1048.4,-44.42,11,0.1,USD
+OD-10905,10-08-2023,15-08-2023,2023,August,New York,East,Home Office,Technology,Accessories,Product_13,994.17,1168.56,-174.39,11,0.3,USD
+OD-10906,09-05-2022,10-05-2022,2022,May,California,West,Corporate,Technology,Phones,Product_13,1134.32,1399.77,-265.45,9,0.3,USD
+OD-10907,07-05-2024,12-05-2024,2024,May,Texas,East,Consumer,Office Supplies,Art,Product_6,1730.91,1815.15,-84.24,12,0.1,USD
+OD-10908,03-04-2023,10-04-2023,2023,April,Florida,East,Consumer,Technology,Phones,Product_21,364.36,341.46,22.9,9,0.2,USD
+OD-10909,05-02-2022,06-02-2022,2022,February,New York,Central,Corporate,Furniture,Bookcases,Product_14,1955.35,1736.19,219.16,11,0.0,USD
+OD-10910,17-02-2022,22-02-2022,2022,February,Arizona,South,Consumer,Technology,Laptops,Product_23,660.23,659.21,1.02,15,0.2,USD
+OD-10911,07-06-2023,09-06-2023,2023,June,California,East,Consumer,Office Supplies,Binders,Product_7,326.25,264.47,61.78,14,0.1,USD
+OD-10912,09-09-2023,14-09-2023,2023,September,New York,Central,Corporate,Furniture,Bookcases,Product_24,1263.51,1370.7,-107.19,2,0.2,USD
+OD-10913,28-10-2023,30-10-2023,2023,October,Ohio,East,Corporate,Technology,Accessories,Product_23,329.33,261.03,68.3,4,0.0,USD
+OD-10914,03-10-2022,09-10-2022,2022,October,Washington,West,Home Office,Office Supplies,Art,Product_19,1331.77,1258.63,73.14,14,0.1,USD
+OD-10915,07-06-2022,10-06-2022,2022,June,Florida,East,Home Office,Technology,Accessories,Product_3,576.74,449.28,127.46,9,0.0,USD
+OD-10916,21-02-2023,22-02-2023,2023,February,Washington,East,Corporate,Technology,Laptops,Product_25,582.84,572.11,10.73,14,0.1,USD
+OD-10917,11-04-2022,15-04-2022,2022,April,New York,East,Consumer,Furniture,Tables,Product_17,1470.24,1802.68,-332.44,5,0.3,USD
+OD-10918,24-12-2022,30-12-2022,2022,December,Texas,Central,Home Office,Office Supplies,Paper,Product_29,143.53,172.93,-29.4,6,0.3,USD
+OD-10919,05-04-2024,11-04-2024,2024,April,New York,South,Corporate,Office Supplies,Art,Product_9,68.52,60.68,7.84,9,0.1,USD
+OD-10920,27-05-2022,31-05-2022,2022,May,Washington,Central,Consumer,Office Supplies,Art,Product_23,1566.18,1680.99,-114.81,11,0.3,USD
+OD-10921,07-07-2022,11-07-2022,2022,July,Ohio,Central,Corporate,Technology,Accessories,Product_17,1886.27,1836.67,49.6,15,0.1,USD
+OD-10922,28-05-2024,29-05-2024,2024,May,Texas,Central,Consumer,Technology,Accessories,Product_3,1473.41,1335.16,138.25,2,0.1,USD
+OD-10923,28-03-2022,03-04-2022,2022,March,Ohio,South,Consumer,Technology,Laptops,Product_22,1041.93,969.08,72.85,12,0.1,USD
+OD-10924,12-06-2023,18-06-2023,2023,June,California,East,Corporate,Office Supplies,Art,Product_20,420.86,324.68,96.18,14,0.0,USD
+OD-10925,21-12-2023,26-12-2023,2023,December,California,West,Home Office,Office Supplies,Paper,Product_20,924.87,930.69,-5.82,3,0.1,USD
+OD-10926,11-01-2023,18-01-2023,2023,January,Ohio,Central,Consumer,Furniture,Bookcases,Product_16,789.23,683.09,106.14,6,0.0,USD
+OD-10927,27-11-2023,29-11-2023,2023,November,Arizona,Central,Corporate,Office Supplies,Binders,Product_10,566.26,677.04,-110.78,1,0.3,USD
+OD-10928,09-11-2022,15-11-2022,2022,November,Arizona,South,Home Office,Office Supplies,Binders,Product_2,743.7,868.54,-124.84,10,0.3,USD
+OD-10929,29-12-2022,30-12-2022,2022,December,Washington,West,Corporate,Furniture,Tables,Product_1,247.61,254.74,-7.13,8,0.1,USD
+OD-10930,11-06-2023,13-06-2023,2023,June,New York,South,Consumer,Technology,Phones,Product_25,1330.44,1531.55,-201.11,4,0.3,USD
+OD-10931,03-11-2022,06-11-2022,2022,November,Arizona,Central,Consumer,Technology,Phones,Product_22,1686.75,1621.92,64.83,3,0.1,USD
+OD-10932,21-03-2023,22-03-2023,2023,March,Florida,West,Consumer,Technology,Laptops,Product_10,128.5,136.73,-8.23,7,0.3,USD
+OD-10933,02-02-2022,04-02-2022,2022,February,Illinois,South,Home Office,Office Supplies,Binders,Product_4,871.14,914.74,-43.6,9,0.3,USD
+OD-10934,02-01-2024,04-01-2024,2024,January,Texas,South,Consumer,Technology,Accessories,Product_4,1595.79,1538.29,57.5,3,0.1,USD
+OD-10935,14-01-2022,21-01-2022,2022,January,Washington,East,Home Office,Office Supplies,Binders,Product_14,1954.06,1644.18,309.88,12,0.0,USD
+OD-10936,24-10-2022,27-10-2022,2022,October,New York,South,Consumer,Technology,Phones,Product_24,1046.92,1003.28,43.64,4,0.2,USD
+OD-10937,03-06-2024,06-06-2024,2024,June,Arizona,South,Consumer,Office Supplies,Binders,Product_23,1576.3,1580.77,-4.47,2,0.1,USD
+OD-10938,25-05-2024,30-05-2024,2024,May,Texas,West,Consumer,Office Supplies,Art,Product_5,832.5,680.76,151.74,5,0.1,USD
+OD-10939,13-03-2023,14-03-2023,2023,March,Ohio,East,Consumer,Office Supplies,Binders,Product_14,1073.69,1067.85,5.84,12,0.1,USD
+OD-10940,13-03-2023,17-03-2023,2023,March,California,South,Home Office,Furniture,Bookcases,Product_10,264.61,241.92,22.69,6,0.2,USD
+OD-10941,30-12-2023,03-01-2024,2023,December,California,East,Consumer,Furniture,Tables,Product_1,151.65,166.36,-14.71,12,0.2,USD
+OD-10942,29-04-2023,02-05-2023,2023,April,Illinois,South,Consumer,Office Supplies,Binders,Product_16,758.98,702.65,56.33,5,0.0,USD
+OD-10943,14-01-2022,20-01-2022,2022,January,Washington,Central,Corporate,Office Supplies,Binders,Product_24,1568.68,1710.55,-141.87,9,0.2,USD
+OD-10944,10-10-2022,12-10-2022,2022,October,New York,East,Consumer,Office Supplies,Paper,Product_21,1498.05,1203.47,294.58,2,0.0,USD
+OD-10945,02-11-2023,09-11-2023,2023,November,Texas,South,Consumer,Furniture,Chairs,Product_18,1257.07,1260.32,-3.25,5,0.3,USD
+OD-10946,26-07-2022,31-07-2022,2022,July,Florida,East,Consumer,Office Supplies,Binders,Product_14,1123.47,1040.64,82.83,5,0.2,USD
+OD-10947,05-04-2023,11-04-2023,2023,April,Arizona,South,Consumer,Office Supplies,Binders,Product_14,1071.34,973.06,98.28,9,0.0,USD
+OD-10948,08-10-2022,14-10-2022,2022,October,California,East,Home Office,Furniture,Tables,Product_26,1946.32,2192.03,-245.71,4,0.3,USD
+OD-10949,30-06-2023,07-07-2023,2023,June,Ohio,West,Corporate,Office Supplies,Binders,Product_18,1569.78,1724.04,-154.26,7,0.2,USD
+OD-10950,04-01-2022,06-01-2022,2022,January,Arizona,East,Home Office,Office Supplies,Binders,Product_17,1430.12,1536.16,-106.04,9,0.2,USD
+OD-10951,14-08-2022,17-08-2022,2022,August,Florida,East,Consumer,Office Supplies,Paper,Product_2,1090.45,861.56,228.89,5,0.0,USD
+OD-10952,12-10-2022,14-10-2022,2022,October,Texas,West,Consumer,Technology,Phones,Product_1,1314.86,1405.4,-90.54,11,0.2,USD
+OD-10953,24-12-2023,29-12-2023,2023,December,Illinois,West,Corporate,Technology,Laptops,Product_11,1971.26,1466.65,504.61,11,0.0,USD
+OD-10954,13-08-2022,19-08-2022,2022,August,Texas,Central,Consumer,Technology,Phones,Product_24,1504.25,1402.7,101.55,7,0.2,USD
+OD-10955,12-10-2023,17-10-2023,2023,October,Washington,South,Consumer,Office Supplies,Binders,Product_9,447.64,542.13,-94.49,11,0.3,USD
+OD-10956,26-08-2022,01-09-2022,2022,August,Arizona,Central,Consumer,Office Supplies,Paper,Product_3,1017.12,860.59,156.53,8,0.1,USD
+OD-10957,30-06-2022,02-07-2022,2022,June,Illinois,West,Home Office,Office Supplies,Paper,Product_1,654.81,553.72,101.09,15,0.1,USD
+OD-10958,05-12-2023,10-12-2023,2023,December,Ohio,West,Consumer,Furniture,Chairs,Product_8,937.3,1148.14,-210.84,11,0.3,USD
+OD-10959,24-06-2023,26-06-2023,2023,June,Ohio,East,Corporate,Office Supplies,Binders,Product_1,264.57,242.6,21.97,1,0.0,USD
+OD-10960,28-02-2024,29-02-2024,2024,February,Texas,East,Consumer,Technology,Phones,Product_18,1485.46,1336.05,149.41,6,0.0,USD
+OD-10961,07-05-2023,14-05-2023,2023,May,Washington,West,Corporate,Office Supplies,Paper,Product_16,351.3,348.89,2.41,1,0.2,USD
+OD-10962,07-05-2022,08-05-2022,2022,May,Ohio,Central,Consumer,Furniture,Chairs,Product_5,52.36,46.77,5.59,4,0.0,USD
+OD-10963,30-01-2023,01-02-2023,2023,January,Ohio,Central,Consumer,Technology,Laptops,Product_22,1774.24,1467.38,306.86,14,0.0,USD
+OD-10964,23-04-2022,25-04-2022,2022,April,Washington,Central,Consumer,Furniture,Tables,Product_4,752.96,546.73,206.23,15,0.0,USD
+OD-10965,12-09-2023,14-09-2023,2023,September,New York,Central,Home Office,Furniture,Tables,Product_22,879.23,873.79,5.44,15,0.2,USD
+OD-10966,21-10-2022,24-10-2022,2022,October,Washington,South,Home Office,Furniture,Tables,Product_30,567.53,427.23,140.3,15,0.0,USD
+OD-10967,01-06-2024,03-06-2024,2024,June,Ohio,Central,Consumer,Office Supplies,Binders,Product_15,1456.62,1524.12,-67.5,13,0.3,USD
+OD-10968,26-04-2022,01-05-2022,2022,April,Texas,Central,Consumer,Technology,Laptops,Product_11,1989.8,2311.84,-322.04,3,0.3,USD
+OD-10969,22-05-2023,26-05-2023,2023,May,Washington,South,Home Office,Technology,Laptops,Product_5,1614.17,1540.25,73.92,11,0.1,USD
+OD-10970,17-07-2023,21-07-2023,2023,July,Florida,South,Home Office,Office Supplies,Art,Product_13,213.05,238.25,-25.2,12,0.3,USD
+OD-10971,06-03-2024,12-03-2024,2024,March,Washington,East,Consumer,Office Supplies,Binders,Product_1,446.4,383.64,62.76,14,0.0,USD
+OD-10972,01-05-2023,03-05-2023,2023,May,New York,Central,Corporate,Furniture,Chairs,Product_10,947.76,1127.24,-179.48,14,0.3,USD
+OD-10973,27-04-2024,29-04-2024,2024,April,New York,West,Consumer,Furniture,Bookcases,Product_13,1479.51,1711.91,-232.4,12,0.3,USD
+OD-10974,20-12-2023,21-12-2023,2023,December,New York,East,Corporate,Office Supplies,Art,Product_1,336.43,299.0,37.43,3,0.0,USD
+OD-10975,13-01-2022,18-01-2022,2022,January,New York,West,Corporate,Technology,Phones,Product_24,1078.53,1237.2,-158.67,5,0.3,USD
+OD-10976,12-12-2022,16-12-2022,2022,December,Texas,East,Corporate,Office Supplies,Art,Product_5,167.0,133.43,33.57,11,0.0,USD
+OD-10977,27-06-2022,02-07-2022,2022,June,Arizona,South,Corporate,Furniture,Chairs,Product_18,1437.24,1397.95,39.29,5,0.2,USD
+OD-10978,10-03-2023,12-03-2023,2023,March,Florida,South,Consumer,Technology,Phones,Product_13,1257.14,1513.69,-256.55,4,0.3,USD
+OD-10979,03-02-2024,08-02-2024,2024,February,Washington,South,Corporate,Office Supplies,Binders,Product_21,1301.69,1573.47,-271.78,14,0.3,USD
+OD-10980,02-04-2024,05-04-2024,2024,April,Texas,West,Corporate,Office Supplies,Paper,Product_4,201.73,230.57,-28.84,10,0.2,USD
+OD-10981,16-10-2022,18-10-2022,2022,October,California,East,Consumer,Office Supplies,Binders,Product_25,1823.89,1624.0,199.89,4,0.1,USD
+OD-10982,03-02-2022,05-02-2022,2022,February,Arizona,East,Home Office,Technology,Phones,Product_2,143.7,164.95,-21.25,2,0.2,USD
+OD-10983,01-01-2023,08-01-2023,2023,January,Ohio,West,Corporate,Technology,Accessories,Product_24,743.88,645.07,98.81,3,0.0,USD
+OD-10984,30-01-2024,04-02-2024,2024,January,Ohio,West,Consumer,Furniture,Bookcases,Product_16,1193.4,1047.17,146.23,14,0.0,USD
+OD-10985,05-06-2022,11-06-2022,2022,June,Florida,East,Home Office,Technology,Phones,Product_29,470.51,403.6,66.91,11,0.1,USD
+OD-10986,14-06-2022,19-06-2022,2022,June,New York,Central,Corporate,Office Supplies,Art,Product_11,617.14,765.25,-148.11,10,0.3,USD
+OD-10987,31-12-2023,07-01-2024,2023,December,Texas,West,Consumer,Office Supplies,Paper,Product_5,1155.46,865.23,290.23,8,0.0,USD
+OD-10988,27-05-2022,03-06-2022,2022,May,Texas,East,Corporate,Technology,Laptops,Product_15,661.75,734.3,-72.55,15,0.2,USD
+OD-10989,14-10-2022,19-10-2022,2022,October,New York,East,Consumer,Technology,Accessories,Product_23,1555.28,1563.65,-8.37,5,0.3,USD
+OD-10990,21-02-2024,25-02-2024,2024,February,Arizona,East,Home Office,Office Supplies,Binders,Product_2,758.77,870.87,-112.1,5,0.3,USD
+OD-10991,27-09-2023,03-10-2023,2023,September,Washington,Central,Home Office,Furniture,Tables,Product_12,212.81,252.03,-39.22,7,0.3,USD
+OD-10992,15-06-2024,21-06-2024,2024,June,Florida,East,Home Office,Furniture,Bookcases,Product_23,1651.41,1381.79,269.62,1,0.1,USD
+OD-10993,25-10-2022,29-10-2022,2022,October,Florida,South,Consumer,Furniture,Bookcases,Product_13,1754.61,1513.82,240.79,11,0.0,USD
+OD-10994,25-04-2023,01-05-2023,2023,April,New York,East,Consumer,Office Supplies,Paper,Product_24,261.28,276.42,-15.14,15,0.3,USD
+OD-10995,24-07-2022,28-07-2022,2022,July,Arizona,Central,Corporate,Technology,Phones,Product_7,1419.47,1249.71,169.76,8,0.0,USD
+OD-10996,09-02-2022,14-02-2022,2022,February,Florida,West,Home Office,Furniture,Tables,Product_11,1158.0,1429.44,-271.44,10,0.3,USD
+OD-10997,07-04-2024,10-04-2024,2024,April,Florida,West,Consumer,Technology,Accessories,Product_28,94.74,112.03,-17.29,13,0.3,USD
+OD-10998,13-10-2023,15-10-2023,2023,October,Ohio,East,Corporate,Furniture,Chairs,Product_3,631.76,652.09,-20.33,12,0.3,USD
+OD-10999,22-06-2023,24-06-2023,2023,June,Texas,West,Consumer,Office Supplies,Paper,Product_29,1808.2,2005.05,-196.85,6,0.2,USD
